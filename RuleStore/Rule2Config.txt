@@ -1,0 +1,6 @@
+﻿Rule2
+concept
+3
+token1,فحص اسم,PartOf
+token1,فحص صفة,TypeOf
+token1,فحص جمع,Equivalent

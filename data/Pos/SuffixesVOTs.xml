@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="windows-1256"?>
+<VOTs>
+   <Item string="ن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="نا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="33"/>
+						<VOT name="Accusative_Pronoun" value="33"/>
+						<VOT name="Genitive_Pronoun" value="33"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ني">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ه">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ها">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="هم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="هما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="هن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ت">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="100"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="تا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="100"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="تم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="100"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="تما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="100"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="تن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="100"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="50"/>
+				<VOT name="Perfect" value="50"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="كم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="50"/>
+				<VOT name="Perfect" value="50"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="كما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="50"/>
+				<VOT name="Perfect" value="50"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="كن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="50"/>
+				<VOT name="Perfect" value="50"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="وا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ات">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="يات">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ية">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="اتية">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="انية">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="آت">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="تان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="تين">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Accusative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="50"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="50"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ين">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ون">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Unfunctional_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="و">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="ا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Attached_Pronoun" value="100">
+						<VOT name="Nominative_Pronoun" value="50"/>
+						<VOT name="Genitive_Pronoun" value="50"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="50">
+				<VOT name="Imperfect" value="33"/>
+				<VOT name="Perfect" value="33"/>
+				<VOT name="Imperative" value="33"/>
+			</VOT>
+            <VOT name="Noun" value="50"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="اء">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+   <Item string="اؤ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Null_VOT" value="100"/>
+         </VOT>
+      </MyVOTs>
+      <AttachmentVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100"/>
+         </VOT>
+      </AttachmentVOTs>
+   </Item>
+</VOTs>

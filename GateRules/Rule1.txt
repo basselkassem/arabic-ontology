@@ -1,0 +1,5 @@
+Rule1
+concept
+token1,checkPlural,Equivalent
+token1,checkNoun,PartOf
+token1,checkAdjective,TypeOf

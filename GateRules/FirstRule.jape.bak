@@ -1,0 +1,11 @@
+﻿Phase: All
+Input: 
+Options:
+
+rule:Rule1
+Priority: 100
+(
+{Token.string == "من"}
+
+):R -->
+:R.newR = {String =hello}

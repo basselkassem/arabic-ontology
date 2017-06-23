@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="windows-1256"?>
+<VOTs>
+   <Item string="في">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="على">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إلى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="عن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أو">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Conjunction" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="و">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Conjunction" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ثم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Conjunction" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="لن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Accusative" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="كي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Accusative" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="لم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Apocopative" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Accusative" value="33"/>
+				<VOT name="Ann_Group" value="33"/>
+				<VOT name="Unfunctional_Particle" value="33"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنّ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Ann_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Apocopative_Conditional" value="33"/>
+				<VOT name="Ann_Group" value="33"/>
+				<VOT name="Unfunctional_Particle" value="33"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إنّ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Ann_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="كأن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Ann_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="لكن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Ann_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ليت">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Ann_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="لعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Ann_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="من">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="33"/>
+				<VOT name="Interrogation" value="33"/>
+				<VOT name="Apocopative_Conditional" value="33"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="نحن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنت">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنتما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنتم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنتنّ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنتن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هو">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هنّ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Nominative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إياك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Pronoun" value="100">
+					<VOT name="Detached_Pronoun" value="100">
+						<VOT name="Accusative_Detached_Pronoun" value="100"/>
+					</VOT>
+				</VOT>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="التي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Relative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="الذي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Relative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="الذين">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Relative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="اللواتي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Relative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هذا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هذه">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هنا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هناك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هنالك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هؤلاء">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أولئك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تلك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ذلك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ذاك">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Noun" value="100">
+				<VOT name="Demonstrative_Pronoun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="كيف">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Interrogation" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="هل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Interrogation" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أنَّى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Interrogation" value="50"/>
+				<VOT name="Apocopative_Conditional" value="50"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ماذا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Interrogation" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أين">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Interrogation" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="كان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Kan_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ظل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Kan_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="صار">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Kan_Group" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="بين">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="حول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="بينما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="عند">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مع">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="لدي">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="بعد">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="قبل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="اليوم">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="البارحة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أمس">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="غدا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="حيث">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="لدى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="خلال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="منذ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فوق">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Adverb" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="غير">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Exception" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إلا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Exception" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="الله">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="بن">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="شيء">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="طالما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+			<VOT name="Particle" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="كما">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+			<VOT name="Particle" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ليس">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+			<VOT name="Particle" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="وهكذا">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+			<VOT name="Particle" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="في">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+			<VOT name="Particle" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+</VOTs>

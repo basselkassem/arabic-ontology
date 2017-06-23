@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="windows-1256"?>
+<VOTs>
+   <Item string="يفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="90"/>
+				<VOT name="Perfect" value="10"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+         <VOT name="Defen" value="100">
+            <VOT name="Def" value="50"/>
+            <VOT name="IDEF" value="50"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="نفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="10"/>
+				<VOT name="Imperative" value="90"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="10"/>
+				<VOT name="Imperative" value="90"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="100"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعنل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="10"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="انفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افتعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفتعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+         <VOT name="Gender" value="100">
+            <VOT name="Masculine" value="0"/>
+            <VOT name="Feminine" value="100"/>
+            <VOT name="Neuter" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="يفتعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفتعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفيعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="10"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تمفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="10"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إفعوعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="10"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="يفعلل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="يتفعلل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفوعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفعلى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إفعلل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="10"/>
+				<VOT name="Imperative" value="90"/>
+			</VOT>
+            <VOT name="Noun" value="0"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="استفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="0"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="10"/>
+			</VOT>
+            <VOT name="Noun" value="50">
+				<VOT name="Common_Noun" value="0"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="يستفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50">
+				<VOT name="Common_Noun" value="0"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تستفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50">
+				<VOT name="Common_Noun" value="0"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أستفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50">
+				<VOT name="Common_Noun" value="0"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="نستفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="100">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="50">
+				<VOT name="Common_Noun" value="0"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفاعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفاعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فاعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعالى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعنلى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="يفعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فيعلى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفعلى">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="منفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فواعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعاعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعائل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلاء">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلائ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلاؤ">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعالة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعلة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلنة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فيعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعولة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إفعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعليل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعيال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افعيال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفاعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعوعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعلل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فاعلة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفتعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مستفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلياء">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلوان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفاعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفاعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفعلان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعلان">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعاعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعوعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعاليل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفاعلة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="انفعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افتعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="متفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="متفاعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعالة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="استفعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افعيلال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افعيعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="مفعولاء">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعالل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلوة">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فيعلول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="إفعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="افعال">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="0"/>
+            <VOT name="Noun" value="100">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="40">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="60">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعلل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفعلل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="100"/>
+				<VOT name="Perfect" value="0"/>
+				<VOT name="Imperative" value="0"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فاعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="40">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="60">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فيعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فوعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعول">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="40">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="60">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فعيل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="40">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="60">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="فنعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="أفعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="تفاعل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Verb" value="60">
+				<VOT name="Imperfect" value="5"/>
+				<VOT name="Perfect" value="90"/>
+				<VOT name="Imperative" value="5"/>
+			</VOT>
+            <VOT name="Noun" value="40">
+				<VOT name="Common_Noun" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="UN_ARA">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+	         <VOT name="UN_ARA" value="100">
+	            <VOT name="Verb" value="0"/>
+	            <VOT name="Noun" value="100">
+					<VOT name="Common_Noun" value="100"/>
+				</VOT>
+	         </VOT>
+		 </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="FORIGN">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+	         <VOT name="FORIGN" value="100">
+	            <VOT name="Verb" value="0"/>
+	            <VOT name="Noun" value="100">
+					<VOT name="Common_Noun" value="100"/>
+				</VOT>
+	         </VOT>
+		 </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="UNKNOWN">
+      <MyVOTs>
+	         <VOT name="NVA" value="100">
+	            <VOT name="Verb" value="0"/>
+	            <VOT name="Noun" value="100">
+					<VOT name="Common_Noun" value="100"/>
+				</VOT>
+	         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="PARTICLE">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="PUN">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="PUN" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="NUM">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="NUM" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="SYMBOL">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="SYMBOL" value="100"/>
+         </VOT>
+      </MyVOTs>
+   </Item>
+</VOTs>

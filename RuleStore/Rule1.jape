@@ -1,0 +1,12 @@
+Phase: All
+Input:
+Options:
+rule:Rule1
+Priority:100
+(
+	{Token.POS=="(Preposition)"}
+	{SpaceToken.kind==space}
+	({Token.POS=="(Common_Noun)"}):X
+	{Token.string==":"}
+):left --> 
+:left.Rule1={concpet=:X.Token.stem}

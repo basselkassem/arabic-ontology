@@ -1,0 +1,40 @@
+@charset "UTF-8";
+#comment-controls-container{
+}
+
+#comments-count {
+	-moz-border-radius:5px ;
+	-webkit-border-radius:5px ;
+	border-radius:5px ;
+background:url("/assets/ar/images/comment-tag.gif") no-repeat scroll 10px 5px #E8E8E8;
+color:red;
+font-family:tahoma;
+font-size:12px;
+font-weight:normal;
+padding-left:45px;
+padding-top:5px;
+width:40px;
+float:left;
+height: 18px;
+padding-right:5px;
+text-align:center;
+}
+
+#comment-control{
+	float:left;
+	margin-left:10px;
+		-moz-border-radius:5px ;
+	-webkit-border-radius:5px ;
+	border-radius:5px ;
+	background:#e8e8e8;
+	height:20px;
+margin-left:10px;
+padding:2px 5px;
+}
+
+#comment-control-select{
+	background:none;
+	border:none;
+	color:#666666;
+font-family:tahoma;
+}

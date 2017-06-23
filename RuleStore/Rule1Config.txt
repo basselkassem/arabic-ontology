@@ -1,0 +1,5 @@
+Rule1
+concpet
+-1
+word,فحص اسم,partOf
+word,فحص صفة,typeOf

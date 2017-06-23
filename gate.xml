@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- gate.xml: GATE configuration data -->
+<GATE>
+
+<!-- NOTE: the next element may be overwritten by the GUI!!! -->
+<GATECONFIG Other_components_font="Arial Unicode MS#12#false#false"
+ Menus_font="Arial Unicode MS#12#false#false"
+ Main_frame_width="800"
+ Save_options_on_exit="true"
+ Text_components_font="Arial Unicode MS#12#false#false"
+ Save_session_on_exit="true"
+ Load_plugin_path=""
+ Main_frame_height="600"
+ Look_and_Feel="com.sun.java.swing.plaf.windows.WindowsLookAndFeel"
+/>
+
+</GATE>

@@ -1,0 +1,2176 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://bassel.com/"
+     xml:base="http://bassel.com/"
+     xmlns:ع5="http://bassel.com/أَوْعَ"
+     xmlns:ع4="http://bassel.com/رِعَ"
+     xmlns:ع3="http://bassel.com/مَوْعِ"
+     xmlns:ع2="http://bassel.com/وَعْ"
+     xmlns:ن2="http://bassel.com/ذَنَ"
+     xmlns:ي2="http://bassel.com/رُفَهْنِيَ"
+     xmlns:ي3="http://bassel.com/وَذِيَّ"
+     xmlns:ق5="http://bassel.com/وَقْ"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:ق4="http://bassel.com/رَقُ"
+     xmlns:ق3="http://bassel.com/خِلْقَ"
+     xmlns:ق2="http://bassel.com/أَوْقَ"
+     xmlns:ق9="http://bassel.com/خَلِقَ"
+     xmlns:ق8="http://bassel.com/وَرَقَ"
+     xmlns:ق7="http://bassel.com/مُوْقَ"
+     xmlns:ق6="http://bassel.com/دُرْقُ"
+     xmlns:و="http://bassel.com/دَوَّ"
+     xmlns:ار="http://bassel.com/وَارِ"
+     xmlns:ي="http://bassel.com/وَافِيَ"
+     xmlns:اد="http://bassel.com/وَادِ"
+     xmlns:ر9="http://bassel.com/وِرْ"
+     xmlns:ر7="http://bassel.com/وَرِ"
+     xmlns:ر8="http://bassel.com/وَرَ"
+     xmlns:ف="http://bassel.com/رَفْ"
+     xmlns:ر5="http://bassel.com/مَيْسَرَ"
+     xmlns:ق="http://bassel.com/وَرْقَ"
+     xmlns:ر6="http://bassel.com/فِطْرَ"
+     xmlns:ك="http://bassel.com/وُكْ"
+     xmlns:م2="http://bassel.com/دُجْمَ"
+     xmlns:ل="http://bassel.com/خَلَ"
+     xmlns:ر3="http://bassel.com/دَرْ"
+     xmlns:ر4="http://bassel.com/وَذِرَ"
+     xmlns:م="http://bassel.com/وَذْمَ"
+     xmlns:اح="http://bassel.com/رَاحِ"
+     xmlns:م4="http://bassel.com/مُذَمَّ"
+     xmlns:يج="http://bassel.com/وَلِيجَ"
+     xmlns:ن="http://bassel.com/ذَنُ"
+     xmlns:م3="http://bassel.com/خِمَ"
+     xmlns:ر2="http://bassel.com/مِدْرَ"
+     xmlns:م5="http://bassel.com/خَمْ"
+     xmlns:اف="http://bassel.com/وَافِ"
+     xmlns:م6="http://bassel.com/رَثْمَ"
+     xmlns:م7="http://bassel.com/خُمَ"
+     xmlns:م8="http://bassel.com/رَحْمَ"
+     xmlns:ام="http://bassel.com/ذَمَامَ"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:ف2="http://bassel.com/رِفَ"
+     xmlns:ر10="http://bassel.com/دَرَ"
+     xmlns:ف4="http://bassel.com/وَدَفَ"
+     xmlns:ف3="http://bassel.com/رُفَ"
+     xmlns:ف5="http://bassel.com/أَوْفَ"
+     xmlns:ل2="http://bassel.com/خُلاَلَ"
+     xmlns:خ="http://bassel.com/دَخِ"
+     xmlns:د="http://bassel.com/وَدِ"
+     xmlns:ل3="http://bassel.com/دِخْلَ"
+     xmlns:ج="http://bassel.com/دَجْ"
+     xmlns:bassel="http://bassel.com/"
+     xmlns:ح="http://bassel.com/دِحَ"
+     xmlns:ث="http://bassel.com/رَثَ"
+     xmlns:bassel2="http://bassel.com/#"
+     xmlns:و3="http://bassel.com/يَوْ"
+     xmlns:خ2="http://bassel.com/دَخَّ"
+     xmlns:أ="http://bassel.com/وَذْأَ"
+     xmlns:خ3="http://bassel.com/دِخَ"
+     xmlns:و2="http://bassel.com/دَوْ"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:اح2="http://bassel.com/دَاحِ"
+     xmlns:س2="http://bassel.com/مَرْسَ"
+     xmlns:ع="http://bassel.com/يُعَ"
+     xmlns:ط="http://bassel.com/وَرْطَ"
+     xmlns:ض="http://bassel.com/دَاحِضَ"
+     xmlns:ص="http://bassel.com/وَصْ"
+     xmlns:ش="http://bassel.com/وَشَ"
+     xmlns:س="http://bassel.com/وَعْسَ"
+     xmlns:ر="http://bassel.com/دَوْرَ"
+     xmlns:ذ="http://bassel.com/عَذَ"
+     xmlns:ك2="http://bassel.com/أَوْكَ"
+     xmlns:ث2="http://bassel.com/وَعْثَ"
+     xmlns:س5="http://bassel.com/مَيْسُ"
+     xmlns:د2="http://bassel.com/مَوْعِدَ"
+     xmlns:س3="http://bassel.com/يَسَ"
+     xmlns:س4="http://bassel.com/يَسِ"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:لا="http://bassel.com/خِلاَ">
+    <owl:Ontology rdf:about="http://bassel.com/"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://bassel.com/#PartOf -->
+
+    <owl:ObjectProperty rdf:about="http://bassel.com/#PartOf"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://bassel.com/#hasExample -->
+
+    <owl:DatatypeProperty rdf:about="http://bassel.com/#hasExample"/>
+    
+
+
+    <!-- http://bassel.com/#hasType -->
+
+    <owl:DatatypeProperty rdf:about="http://bassel.com/#hasType"/>
+    
+
+
+    <!-- http://bassel.com/#hasVocalized -->
+
+    <owl:DatatypeProperty rdf:about="http://bassel.com/#hasVocalized"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://bassel.com/أداة -->
+
+    <owl:Class rdf:about="http://bassel.com/أداة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/كلمة"/>
+        <rdfs:comment xml:lang="ar">أداة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/أَوْعَر -->
+
+    <owl:Class rdf:about="http://bassel.com/أَوْعَر">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الصَّعب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/أَوْفَى -->
+
+    <owl:Class rdf:about="http://bassel.com/أَوْفَى">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَتَمُّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/أَوْقَاص -->
+
+    <owl:Class rdf:about="http://bassel.com/أَوْقَاص">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الزَّعانِف من النَّاس.</rdfs:comment>
+        <rdfs:comment xml:lang="ar">المتفرِّقون.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/أَوْكَس -->
+
+    <owl:Class rdf:about="http://bassel.com/أَوْكَس">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَنْقَص.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/إنسان -->
+
+    <owl:Class rdf:about="http://bassel.com/إنسان">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">إنسان</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/اسم -->
+
+    <owl:Class rdf:about="http://bassel.com/اسم">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/كلمة"/>
+        <rdfs:comment xml:lang="ar">اسم</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/حجج -->
+
+    <owl:Class rdf:about="http://bassel.com/حجج">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">حجج</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خالفة -->
+
+    <owl:Class rdf:about="http://bassel.com/خالفة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/كلمة"/>
+        <rdfs:comment xml:lang="ar">خالفة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خَلَل -->
+
+    <owl:Class rdf:about="http://bassel.com/خَلَل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الفسادُ والضَّعْفُ.</rdfs:comment>
+        <rdfs:comment xml:lang="ar">مُنْفَرَج ما بين كلّ شيئين.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خَلِقَة -->
+
+    <owl:Class rdf:about="http://bassel.com/خَلِقَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّحَابة المُسْتَوِيَة  المُخِيلَة للمطر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خَمْر -->
+
+    <owl:Class rdf:about="http://bassel.com/خَمْر">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">العِنَب.</rdfs:comment>
+        <rdfs:comment xml:lang="ar">ما أَسكر من الشَّرَاب وعصير العنب ونحْوِه، لأَنها تغطِّي العَقْلَ. (وهي مُؤَنَّثَة وقد تذكَّر).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خُلاَلَة -->
+
+    <owl:Class rdf:about="http://bassel.com/خُلاَلَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">ما يُلْقَى من بقيَّة الطَّعَام عِنْد التَّخلُّل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خُمَار -->
+
+    <owl:Class rdf:about="http://bassel.com/خُمَار">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/ناس"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">من النَّاس: جماعتهم وكَثرتهم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خِلاَل -->
+
+    <owl:Class rdf:about="http://bassel.com/خِلاَل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">المُخَالّة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خِلْقَة -->
+
+    <owl:Class rdf:about="http://bassel.com/خِلْقَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الفِطْرَة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/خِمَار -->
+
+    <owl:Class rdf:about="http://bassel.com/خِمَار">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">العِمامة: لأَن الرَّجُل يغطِّي بها رأْسَه ويُديرها تحت الحنك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَاحِض -->
+
+    <owl:Class rdf:about="http://bassel.com/دَاحِض">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">من لا ثباتَ له ولا عزيمة في الأُمور.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَاحِضَة -->
+
+    <owl:Class rdf:about="http://bassel.com/دَاحِضَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/حجج"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">من الحجج: الباطلة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَارِيّ -->
+
+    <owl:Class rdf:about="http://bassel.com/دَارِيّ">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">العَطَّار. (نسبة إِلى دارِين).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَجْم -->
+
+    <owl:Class rdf:about="http://bassel.com/دَجْم">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الضَّرْبُ والنَّوْعُ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَجْن -->
+
+    <owl:Class rdf:about="http://bassel.com/دَجْن">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">إِلباسُ الغيم الأَرْضَ وأَقطار السَّمَاء.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَخِيل -->
+
+    <owl:Class rdf:about="http://bassel.com/دَخِيل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَجنبيُّ الذي يدخل وطن غيره ليستغلَّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَخَّال -->
+
+    <owl:Class rdf:about="http://bassel.com/دَخَّال">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/رجال"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">من الرِّجَال: الكثير التَّصرف في الأُمور.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَرَك -->
+
+    <owl:Class rdf:about="http://bassel.com/دَرَك">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">اسم مصدر من الإِدراك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَرْك -->
+
+    <owl:Class rdf:about="http://bassel.com/دَرْك">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">أَسفل كل شيءٍ ذي عُمْق، كالبئر ونحوها.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَوَّار -->
+
+    <owl:Class rdf:about="http://bassel.com/دَوَّار">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الكثير الدَّوَران.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَوْر -->
+
+    <owl:Class rdf:about="http://bassel.com/دَوْر">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الطَّبَقَة من الشَّيْءِ المُدار بعضُه فوق بعضِه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دَوْرَق -->
+
+    <owl:Class rdf:about="http://bassel.com/دَوْرَق">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">قلنسوة كان يلبسها المتنسِّكون قديمًا.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دُجْمَة -->
+
+    <owl:Class rdf:about="http://bassel.com/دُجْمَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الظُّلْمَة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دُرْقُوع -->
+
+    <owl:Class rdf:about="http://bassel.com/دُرْقُوع">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الجوع الشَّديد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دِثَارِيّ -->
+
+    <owl:Class rdf:about="http://bassel.com/دِثَارِيّ">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/رجال"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">من الرِّجَال: الكسلان.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دِحَاس -->
+
+    <owl:Class rdf:about="http://bassel.com/دِحَاس">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الامتلاء والازدحام.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دِخَال -->
+
+    <owl:Class rdf:about="http://bassel.com/دِخَال">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/ورد"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">في الوِرْدِ: أَن يُدْخِلَ بعيراً قد شرب بين بعيريْن ناهليْن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/دِخْلَة -->
+
+    <owl:Class rdf:about="http://bassel.com/دِخْلَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/إنسان"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">من الإِنْسَان: داخلته.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/ذَمَامَة -->
+
+    <owl:Class rdf:about="http://bassel.com/ذَمَامَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الحياء والإِشفاق من الذَّم واللوم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/ذَنَب -->
+
+    <owl:Class rdf:about="http://bassel.com/ذَنَب">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">مِنْ كُلِّ شَيْءٍٍ: آخره.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/ذَنُوب -->
+
+    <owl:Class rdf:about="http://bassel.com/ذَنُوب">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">من الأَيام: طويل الشَّرّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رجال -->
+
+    <owl:Class rdf:about="http://bassel.com/رجال">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">رجال</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رَاحِم -->
+
+    <owl:Class rdf:about="http://bassel.com/رَاحِم">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الشَّاة الوارمة الرَّحِم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رَثَد -->
+
+    <owl:Class rdf:about="http://bassel.com/رَثَد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">ضَعَفَةُ النَّاس.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رَثْمَة -->
+
+    <owl:Class rdf:about="http://bassel.com/رَثْمَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الطَرَف من الخَبر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رَحْمَة -->
+
+    <owl:Class rdf:about="http://bassel.com/رَحْمَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الخير والنِّعمة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رَفْش -->
+
+    <owl:Class rdf:about="http://bassel.com/رَفْش">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَكل الجيِّد والشُّرْب في النَّعمة والأَمن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رَقُوء -->
+
+    <owl:Class rdf:about="http://bassel.com/رَقُوء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">ما يوضع على الدَّمِ ونحوه ليُرقِئه ويُسْكِنَه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رُفَة -->
+
+    <owl:Class rdf:about="http://bassel.com/رُفَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">التِّبن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رُفَهْنِيَة -->
+
+    <owl:Class rdf:about="http://bassel.com/رُفَهْنِيَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">رَغَدُ العَيْش، وسَعَةُ الرِّزْق والخِصْب والنَّعيم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رِعَة -->
+
+    <owl:Class rdf:about="http://bassel.com/رِعَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَدب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/رِفَاء -->
+
+    <owl:Class rdf:about="http://bassel.com/رِفَاء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الوفاق والوئام والخَلَف الصَّالِح. (وانظر: رفء)</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/صفة -->
+
+    <owl:Class rdf:about="http://bassel.com/صفة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/كلمة"/>
+        <rdfs:comment xml:lang="ar">صفة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/ظرف -->
+
+    <owl:Class rdf:about="http://bassel.com/ظرف">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/كلمة"/>
+        <rdfs:comment xml:lang="ar">ظرف</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/عَذَاة -->
+
+    <owl:Class rdf:about="http://bassel.com/عَذَاة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَرْض البعيدة من الماءِ والوَخَمِ والوَبَاء.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/عَذَل -->
+
+    <owl:Class rdf:about="http://bassel.com/عَذَل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">المَلاَمة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/فعل -->
+
+    <owl:Class rdf:about="http://bassel.com/فعل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/كلمة"/>
+        <rdfs:comment xml:lang="ar">فعل</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/فِطْرَة -->
+
+    <owl:Class rdf:about="http://bassel.com/فِطْرَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الطَّبيعة السَّليمة التي لم تُشَبْ بِعَيب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/قوس -->
+
+    <owl:Class rdf:about="http://bassel.com/قوس">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">قوس</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/كلمة -->
+
+    <owl:Class rdf:about="http://bassel.com/كلمة">
+        <rdfs:comment xml:lang="ar">كلمة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مفهوم -->
+
+    <owl:Class rdf:about="http://bassel.com/مفهوم">
+        <rdfs:comment xml:lang="ar">مفهوم</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مَرْسَن -->
+
+    <owl:Class rdf:about="http://bassel.com/مَرْسَن">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَنْف.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مَوْعِد -->
+
+    <owl:Class rdf:about="http://bassel.com/مَوْعِد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">العَهْد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مَوْعِدَة -->
+
+    <owl:Class rdf:about="http://bassel.com/مَوْعِدَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الوَعْد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مَيْسَرَة -->
+
+    <owl:Class rdf:about="http://bassel.com/مَيْسَرَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">خِلافُ الميمنة، أَو الجهة اليسرى.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مَيْسُور -->
+
+    <owl:Class rdf:about="http://bassel.com/مَيْسُور">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">اليُسْر: وهو ضدّ المعسور. وهو مصدرٌ على وزن مفعول.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مُذَمَّر -->
+
+    <owl:Class rdf:about="http://bassel.com/مُذَمَّر">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الكاهِل والعُنُق وما حَوْلَه إِلى الذِّفْرَي.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مُوْقَر -->
+
+    <owl:Class rdf:about="http://bassel.com/مُوْقَر">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/نخل"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">من النَّخل: الكثيرةُ الحمل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/مِدْرَى -->
+
+    <owl:Class rdf:about="http://bassel.com/مِدْرَى">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">القرن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/ناس -->
+
+    <owl:Class rdf:about="http://bassel.com/ناس">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">ناس</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/نخل -->
+
+    <owl:Class rdf:about="http://bassel.com/نخل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">نخل</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/نساء -->
+
+    <owl:Class rdf:about="http://bassel.com/نساء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">نساء</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/ورد -->
+
+    <owl:Class rdf:about="http://bassel.com/ورد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/اسم"/>
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">ورد</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَادِك -->
+
+    <owl:Class rdf:about="http://bassel.com/وَادِك">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّمين ذو الوَدَك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَارِد -->
+
+    <owl:Class rdf:about="http://bassel.com/وَارِد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّابِق.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَافِل -->
+
+    <owl:Class rdf:about="http://bassel.com/وَافِل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">البالغ، أَو الوافِر من القَصَب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَافِيَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَافِيَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السِّنجَةُ التَّامة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَدَفَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَدَفَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الرَّوضَة الخضراء.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَدِيك -->
+
+    <owl:Class rdf:about="http://bassel.com/وَدِيك">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّمين.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَذِرَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَذِرَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الكثير الوَذْر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَذِيَّة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَذِيَّة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الحقيرة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَذْأَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَذْأَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">العِلَّة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَذْمَاء -->
+
+    <owl:Class rdf:about="http://bassel.com/وَذْمَاء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">العَاقِر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرَاء -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرَاء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">تكون خَلفًا وتكون قُدَّامًا. (ضدّ).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرَاق -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرَاق">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">خُضرةُ الأَرْض من الحشيش وليس من الورق.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرَقَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرَقَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الخسيسُ مِنَ الرِّجَال.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرِيد -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرِيد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">مَثَلٌ في شِدَّةِ القُرْب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرِيس -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرِيس">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">المصبوغ بالوَرْس.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرْطَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرْطَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">كلّ أَمْرٍ تَعْسُر النَّجاة منه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَرْقَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَرْقَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://bassel.com/#PartOf"/>
+                <owl:someValuesFrom rdf:resource="http://bassel.com/قوس"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="ar">في القَوْس: العَيْب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَشَل -->
+
+    <owl:Class rdf:about="http://bassel.com/وَشَل">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الماء القليل يتحلَّب من جبل أَو صخرة ولا يتَّصل قَطرُه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَصْم -->
+
+    <owl:Class rdf:about="http://bassel.com/وَصْم">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الصَّدْع.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَعْثَاء -->
+
+    <owl:Class rdf:about="http://bassel.com/وَعْثَاء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">المَشَقَّة والتَّعب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَعْثَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَعْثَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/نساء"/>
+        <rdfs:comment xml:lang="ar">من النِّساء: السَّمينة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَعْد -->
+
+    <owl:Class rdf:about="http://bassel.com/وَعْد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">ما يَلْتَزِمُ الإِنْسَانُ بإِنجازِه لغيره من قَولٍ أَو فِعْل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَعْسَاء -->
+
+    <owl:Class rdf:about="http://bassel.com/وَعْسَاء">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّهل اللَّيِّن من الرَّمْلِ تَغيبُ فيه الأَرجل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَقْش -->
+
+    <owl:Class rdf:about="http://bassel.com/وَقْش">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الحِسّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وَلِيجَة -->
+
+    <owl:Class rdf:about="http://bassel.com/وَلِيجَة">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">مَن تتَّخذه معتمدًا عليه من غير أَهلك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وُكْد -->
+
+    <owl:Class rdf:about="http://bassel.com/وُكْد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّعي والجُهد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/وِرْد -->
+
+    <owl:Class rdf:about="http://bassel.com/وِرْد">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">النَّصِيبُ من القرآن أَو الذِّكر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/يَسَار -->
+
+    <owl:Class rdf:about="http://bassel.com/يَسَار">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">خِلاف اليَمِين، وهو الجهة اليُسرى.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/يَسِير -->
+
+    <owl:Class rdf:about="http://bassel.com/يَسِير">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الهَيِّن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/يَوْم -->
+
+    <owl:Class rdf:about="http://bassel.com/يَوْم">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الوقت الحاضِر؛ أَي: وَقْتُ التَّكَلُّمِ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://bassel.com/يُعَار -->
+
+    <owl:Class rdf:about="http://bassel.com/يُعَار">
+        <rdfs:subClassOf rdf:resource="http://bassel.com/مفهوم"/>
+        <rdfs:comment xml:lang="ar">الشَّديد من أَصوات الشَّاة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://bassel.com/أوعر -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/أوعر">
+        <rdf:type rdf:resource="http://bassel.com/أَوْعَر"/>
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْعَر</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: طَريقٌ أَوْعَر.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/أوفى -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/أوفى">
+        <rdf:type rdf:resource="http://bassel.com/أَوْفَى"/>
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْفَى</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم تفضيل</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَأَنَّ سَعْيَهُ سَوْفَ يُرَى ثُمَّ يُجْزَاهُ الجَزاءَ الأَوْفَى} [النجم:41].</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/أوقاص -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/أوقاص">
+        <rdf:type rdf:resource="http://bassel.com/أَوْقَاص"/>
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْقَاص</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">جمع</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَتانا أَوقاصٌ من بني فلان.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: صَاروا أَوْقَاصًا.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/أوكس -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/أوكس">
+        <rdf:type rdf:resource="http://bassel.com/أَوْكَس"/>
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْكَس</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَوْكَسُ الثَّمَنَيْنِ: أَنْقَصُهُما.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/خلال -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/خلال">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/خِلاَل"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خِلاَل</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {لاَ بَيْعٌ فِيهِ وَلاَ خِلاَلٌ}[إبراهيم:31].</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/خلالة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/خلالة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/خُلاَلَة"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خُلاَلَة</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ يأْكل خُلالَتَه: إِذا كان بخيلاً.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/خلقة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/خلقة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/خَلِقَة"/>
+        <rdf:type rdf:resource="http://bassel.com/خِلْقَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خَلِقَة</bassel2:hasVocalized>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خِلْقَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَحَابَةٌ خَلِقَةٌ.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: عَيْبٌ خِلْقِيّ: موجودٌ من أَصل الخِلْقَة، وليس بعارض.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/خلل -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/خلل">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/خَلَل"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خَلَل</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: جَاسَ خَلَلَ الدِّيار: سار وتردَّدَ بينَها.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: في رأْيه خَلَلٌ.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو خَلَلَهُم: بينَهم.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/خمار -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/خمار">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/خُمَار"/>
+        <rdf:type rdf:resource="http://bassel.com/خِمَار"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خُمَار</bassel2:hasVocalized>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خِمَار</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي الحديث: &quot;أَنه كان يمسحُ على الخُفّ والخِمَار&quot;: العِمامة.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: دخل فلانٌ في خُمار النَّاس: فيما يواريه ويَسْتُره من أَلمها.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/خمر -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/خمر">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/خَمْر"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خَمْر</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {إِنِّي أَرَانِي أَعْصِرُ خَمْرًا}[يوسف:36].</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي المثل: &quot;خُمْرُ أَبي الرَّوْقاء ليست تسكر&quot;: يضرب للغنيّ الذي لا فضلَ له على أَحدٍ ولا إِحسان.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: الخمر ياقوتة سيالة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/داحض -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/داحض">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَاحِض"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَاحِض</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ داحِض: لا ثبات له ولا عزيمة في الأمور.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/داحضة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/داحضة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَاحِضَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَاحِضَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: حُجَّةٌ داحضة: باطلة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/داري -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/داري">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَارِيّ"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم منسوب</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَارِيّ</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي الحديث: &quot;مَثَل الجليس الصَّالح مَثَلُ الدَّارِيّ، إِن لم يُحذِك من عِطْره عَلِقَك مِنْ ريحه&quot;.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دثاري -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دثاري">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دِثَارِيّ"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِثَارِيّ</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: رجلٌ دِثَارِيّ: كسلان ساكنٌ لا يتصرّف.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دجم -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دجم">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَجْم"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَجْم</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: أَمِنْ هذا الدَّجْم أَنت؟.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دجمة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دجمة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دُجْمَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دُجْمَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: انقشعت دُجَمُ الباطل.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو في دُجَم الهوى.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دجن -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دجن">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَجْن"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَجْن</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: يومُ دَجْنٍ. ويوصف به فيقال: يومٌ دَجْنٌ.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دحاس -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دحاس">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دِحَاس"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِحَاس</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بيتٌ دِحَاسٌ: كثيرُ الأَهل.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دخال -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دخال">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَخَّال"/>
+        <rdf:type rdf:resource="http://bassel.com/دِخَال"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَخَّال</bassel2:hasVocalized>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِخَال</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَقَى إِبلَهُ دِخالاً.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ دَخَّال في الأُمور: كثيرُ التَّصرف فيها.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دخلة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دخلة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دِخْلَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِخْلَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو حَسَن الدِّخْلَة، وهو عفيف الدِّخْلَة، وهو خبيث الدِّخْلَة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دخيل -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دخيل">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَخِيل"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَخِيل</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: داءٌ دَخِيل: دَخْل.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/درقوع -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/درقوع">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دُرْقُوع"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دُرْقُوع</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: جوعٌ دُرْقُوع: شديد.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/درك -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/درك">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَرَك"/>
+        <rdf:type rdf:resource="http://bassel.com/دَرْك"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم مصدر</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَرَك</bassel2:hasVocalized>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَرْك</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {لاَ تَخَافُ دَرَكًا وَلاَ تَخْشَى}[طه:77].</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلغَ الغَوَّاصُ دَرَك البحر.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلغَ الغَوَّاصُ دَرْك البحر.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دوار -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دوار">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَوَّار"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَوَّار</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صيغة مبالغة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: الدَّهْرُ دَوَّارٌ بالإِنسان: دائرٌ به.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دور -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دور">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَوْر"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَوْر</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: انْفَسَخَ دَوْرُ عمامتِه.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/دورق -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/دورق">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/دَوْرَق"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَوْرَق</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ دَوْرَق: متنسك.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ذمامة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ذمامة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/ذَمَامَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ذَمَامَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي حديث موسى والخضر: &quot;أَخذتْه من صاحبه ذَمَامَةٌ&quot;.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ذنب -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ذنب">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/ذَنَب"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ذَنَب</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: نظر إِليه بذَنَب عينه: أَي بمؤخرها.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ذنوب -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ذنوب">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/ذَنُوب"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ذَنُوب</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صيغة مبالغة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: يومٌ ذَنُوب: طويل الشّر.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/راحم -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/راحم">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَاحِم"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَاحِم</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: شاةٌ رَاحِم، وعنزٌ راحمٌ.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رثد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رثد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَثَد"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَثَد</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: تركنا على الماءِ رَثَدًا ما يطيقون تَحَمُّلاً.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رثمة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رثمة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَثْمَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَثْمَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلَغَهُ رَثْمَةٌ من الخبر: طَرَفٌ منه.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رحمة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رحمة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَحْمَة"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَحْمَة</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُمْ}[يونس:21].</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رحموت -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رحموت">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَحْمَة"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَحَمُوت</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: &quot;رَهَبُوتٌ خيْرٌ لَكَ من رَحَمُوت&quot;: أَي لأَنْ تُرْهَبَ خيْرٌ لَكَ من أَن تُرْحَمَ. ولم يستعمل إِلاَّ مزدوِجًا.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رعة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رعة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رِعَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رِعَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو حَسَن الرِّعة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رفاء -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رفاء">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رِفَاء"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رِفَاء</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال للمتزوج: بالرِّفاء والبنين: بالوفاق والوئام والخَلَفِ الصَّالح.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رفة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رفة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رُفَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رُفَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي المثل: &quot;أَغنى من التُّفَةِ عن الرُّفة&quot;: يضرب للئيم إِذا شبع.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رفش -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رفش">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَفْش"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَفْش</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: وَقع في الرَّفْش والقَفْش: الأَكل ومباشرة النساء.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رفهنية -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رفهنية">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رُفَهْنِيَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رُفَهْنِيَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو في رُفَهْنِيَةٍ من العيش.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/رقوء -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/رقوء">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/رَقُوء"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَقُوء</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَكَن النَّزْفُ بالرَّقوء.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/عذاة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/عذاة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/عَذَاة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">عَذَاة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">قال حُذيفة لرجُل: &quot;إِن كنت لا بُدَّ نازِلاً بالبصرةِ فانزل عَذَواتِها ولا تَنْزل سُرَّتَها&quot;.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/عذل -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/عذل">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/عَذَل"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">عَذَل</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي المثل: &quot;سَبَقَ السَّيْفُ العَذَل&quot;: يُضْرَبُ لِما قَدْ فَات ولا يُسْتَدْرَك.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/فطرة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/فطرة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/فِطْرَة"/>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">فِطْرَة</bassel2:hasVocalized>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر هيئة</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {فِطْرَةَ اللهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللهِ} [الروم:30].</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/مدرى -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/مدرى">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مِدْرَى"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مِدْرَى</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: نَطَحَهُ الثَّوْرُ بالمِدْرَى: بالقرن المحدَّد.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/مذمر -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/مذمر">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مُذَمَّر"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مُذَمَّر</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلَغَ الأَمرُ المُذَمَّر: اشتدّ.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/مرسن -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/مرسن">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مَرْسَن"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَرْسَن</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَلِسَ مَرْسَنُه: سَلِسَ قيادُهُ.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فَعَلت ذلك على رغم مَرْسَنِه.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فَعَلت ذلك على رغم مَرْسِنِه.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/موعد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/موعد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مَوْعِد"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم مكان</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَوْعِد</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {فَأَخْلَفْتُمْ مَوْعِدِي}[طه:86]؛ أَي: عَهْدِي.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/موعدة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/موعدة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مَوْعِدَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَوْعِدَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لأَبِيهِ إِلاَّ عَنْ مَوْعِدَةٍ وَعَدَهَا إِيَّاهُ}[التوبة:114].</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/موقر -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/موقر">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مُوْقَر"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مُوْقَر</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: نَخْلَةٌ مُوقَرٌ: كثيرة الحمل.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ميسرة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ميسرة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مَيْسَرَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَيْسَرَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مَيْسَرَةُ الجيش.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: وَلاَّهُ مَيَاسِرَه.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ميسور -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ميسور">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/مَيْسُور"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَيْسُور</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: خُذ بميسورِه ودَعْ مَعْسُورَه.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وادك -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وادك">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَادِك"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَادِك</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: رَجُلٌ وادِك.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وارد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وارد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَارِد"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {فَأَرْسَلُوا وَارِدَهُمْ}[يوسف:19].</bassel2:hasExample>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَارِد</bassel2:hasVocalized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/واعر -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/واعر">
+        <rdf:type rdf:resource="http://bassel.com/أَوْعَر"/>
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَاعِر</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: جَبَلٌ وَاعِر.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وافل -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وافل">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَافِل"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَافِل</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَصَبٌ وافِل.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وافية -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وافية">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَافِيَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَافِيَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: وَزَنَ له بالوافِية.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ودفة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ودفة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَدَفَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَدَفَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَصْبَحت الأَرضُ كلُّها وَدَفةً واحدةً خِصبًا: إِذا اخضرَّت كلُّها.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وديك -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وديك">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَدِيك"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَدِيك</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَكَلَ دِيكًا وَدِيكًا: سَمينًا.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وذأة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وذأة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَذْأَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذْأَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ما بِه وَذْأَةٌ: لا عِلَّةَ به.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وذرة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وذرة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَذِرَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذِرَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: عَضَدٌ وَذِرَة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وذماء -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وذماء">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَذْمَاء"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذْمَاء</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: امرأَةٌ وَذْمَاء، وفَرَسٌ وَذْمَاء.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وذية -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وذية">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَذِيَّة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذِيَّة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: دُنيا وَذِيَّة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وراء -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وراء">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرَاء"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وتكون وراء بمعنى سِوى نحو قوله تَعَالى: {فَمَنِ ابْتَغَى وَرَاءَ ذَلِكَ}[المؤمنون:7] أَي: سِوى ذلك.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {مِنْ وَرَائِهِ جَهَنَّمُ}[إبراهيم:16]: أَمامَه وقُدَّامه.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ويقع ظَرفًا، قال تَعَالى: {وَكَانَ وَرَاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينةٍ غَصْبًا}[الكهف:79]: أَي أَمامهم.</bassel2:hasExample>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرَاء</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو وراءَك لما استتر عنك، سواء أَكان خَلْفًا أَم قُدَّامًا.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وراق -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وراق">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرَاق"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرَاق</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ما أَحسَنَ وَرَاقَه: لِبْستَه وشَارَتَه.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ورد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ورد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وِرْد"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وِرْد</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَرَأْتُ وِرْدِي.</bassel2:hasExample>
+        <rdfs:comment xml:lang="ar">ورد</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ورطة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ورطة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرْطَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر مرة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرْطَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: وَقَعَ فلانٌ في وَرْطَةٍ عَظِيمة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/ورقة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/ورقة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرَقَة"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرْقَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرَقَة</bassel2:hasVocalized>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرْقَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: في القوس وَرْقة.</bassel2:hasExample>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو وَرَقَةٌ، وهي وَرَقَةٌ، إِذا كانا ضَعيفين خَسِيسين.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وريد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وريد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرِيد"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الوَرِيد}[ق:16].</bassel2:hasExample>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرِيد</bassel2:hasVocalized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وريس -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وريس">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَرِيس"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرِيس</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ثَوبٌ وَرِيسٌ. ومِلْحَفَةٌ وَرِيسَة.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وشل -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وشل">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَشَل"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَشَل</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ما أَصَاب إِلاَّ وَشَلاً من الدّنيا.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وصم -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وصم">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَصْم"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَصْم</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَناةٌ فيها وَصْمٌ: صَدْعٌ في أُنبوبها.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وعثاء -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وعثاء">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَعْثَاء"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْثَاء</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَعوذُ بالله من وَعْثَاء السَّفر.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وعثة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وعثة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَعْثَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْثَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: امرأَةٌ وَعْثَةُ الأَرداف.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وعد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وعد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَعْد"/>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">قالَ البُحْتُرِيُّ:   أَنْتَ الكَريمُ وَقَد قَدَّمْتَ مُبْتَدِئًا   وَعْدًا وَكُلُّ كريمٍ عِنْدَ مَوْعِدِهِ.</bassel2:hasExample>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْد</bassel2:hasVocalized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وعر -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وعر">
+        <rdf:type rdf:resource="http://bassel.com/أَوْعَر"/>
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْر</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مَكانٌ وَعْرٌ، وطَرِيقٌ وَعْرٌ، ومَطْلَبٌ وَعْرٌ.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وعساء -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وعساء">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَعْسَاء"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْسَاء</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مَشَى في الوَعْسَاء.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وقش -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وقش">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَقْش"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَقْش</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: سَمِعتُ وَقْشَهُ.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وكد -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وكد">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وُكْد"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وُكْد</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مازال ذلك وُكْدِي: فِعْلي.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/وليجة -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/وليجة">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/وَلِيجَة"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَلِيجَة</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو وَلِيجَتُكُم: لصيقٌ بكم.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/يسار -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/يسار">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/يَسَار"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يَسَار</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَعَدَ يمينًا أَو يسارًا، أَو عن اليمين أَو عن اليَسَار.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/يسير -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/يسير">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/يَسِير"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يَسِير</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: شَيءٌ يَسِيرٌ.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/يعار -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/يعار">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/يُعَار"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُعَار</bassel2:hasVocalized>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: للشاةِ يُعَار.</bassel2:hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://bassel.com/يوم -->
+
+    <owl:NamedIndividual rdf:about="http://bassel.com/يوم">
+        <rdf:type rdf:resource="http://bassel.com/اسم"/>
+        <rdf:type rdf:resource="http://bassel.com/يَوْم"/>
+        <bassel2:hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</bassel2:hasType>
+        <bassel2:hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ}[المائدة:3].</bassel2:hasExample>
+        <bassel2:hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يَوْم</bassel2:hasVocalized>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.4.1806) http://owlapi.sourceforge.net -->
+

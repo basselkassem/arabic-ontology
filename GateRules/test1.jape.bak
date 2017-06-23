@@ -1,0 +1,11 @@
+﻿Phase: All
+Input: 
+Options:
+
+rule:Test
+Priority: 100
+(
+({Token.POS == "(Common_Noun)"} {SpaceToken.kind == space})+
+
+):testRule -->
+:testRule.Test = {String= :testRule@string}

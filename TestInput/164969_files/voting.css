@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+.vote-option-container
+{
+	padding: 5px 2px;
+	overflow: hidden;
+	margin: 5px;
+}
+
+.voting-comments a{ display:block; background:url(../images/voting-comments.gif) no-repeat 0 0; width:164px; height:22px; margin:0 7px 10px 0; clear:both;}
+.voting-comments a:hover{ background:url(../images/voting-comments.gif) no-repeat 0 -22px;}
+
+.vote-option-container span.vote-result-item-title {
+	display: block;
+	padding: 2px 0;
+}
+
+.vote-option-container span.vote-result-item-data {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+.vote-option-container span.vote-result-item-data span.vote-results-item {
+	display: block;
+	padding: 2px 0 0 0;
+}
+
+div#votingDiv, div#resultsDiv {
+	font-size: 13px !important;
+}
+
+div#resultsDiv span.back_voting a {
+	float: left;
+	display: block;
+	width: 100px;
+	margin: 0 0 0 4px;
+	padding: 4px 4px;
+	background-color: #747474;
+	text-align: center;
+	vertical-align: middle;
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+div#resultsDiv span.back_voting a:hover {
+	background-color: #641964;
+}
+
+.vote-results-bar-container
+{
+	width: 100%;
+	height: 14px;
+	overflow: hidden;
+}
+
+.vote-results-bar {
+	height: 14px;
+	overflow: hidden;
+}
+
+span.inner-left-white-box-text span.epoll_title{
+	clear:both;
+	font-weight:bold;
+}
+span.inner-left-white-box-text span.epoll_votes {
+	display:block;
+	padding:4px 0 0 0;
+}
+
+div.spacerVoting {
+	display: block;
+	clear: both;
+	height: 6px;
+}
+
+.vote {
+	display: inline-block;
+	width: 64px;
+	height: 22px;
+	background: url(../images/buttons.gif) right top;
+}
+
+.vote:hover {
+	background: url(../images/buttons.gif) right -22px;
+}
+
+#votingDiv span {
+	font-family:arabic transparent;
+	font-size:12pt;
+	font-weight:bold;
+}
+
+#votingDiv .inner-left-white-box-text {
+	color: #555;
+}
+
+div.pollCatchaContainer { padding:6px 4px; }
+div.pollCatchaContainer div.captchaImg { float:right; width:100px;
+border: 1px solid #ddd;
+   margin: 0 10px; }
+div.pollCatchaContainer div.captchaImg img {width:90px; height:60px;} 
+div.pollCatchaContainer div.captchaReset { float:right; padding-top:20px; width:50px;  }
+div.pollCatchaContainer div.captchaField { clear:both;
+padding:0 10px 10px 0px;
+line-height: 30px;
+}

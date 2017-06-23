@@ -1,0 +1,10 @@
+Phase: All
+Input: 
+Options:
+
+rule:RULE1
+Priority: 100
+(
+{Token.string == "من"} {SpaceToken.kind == space} ({Token}):father {Token.string==":"}
+):R -->
+:R.Rule1 = {parent = :father.Token.string}

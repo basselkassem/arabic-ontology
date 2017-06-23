@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1256"?>
+<VOTs>
+   <Item string="ب">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ف">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Conjunction" value="33"/>
+				<VOT name="Accusative" value="33"/>
+				<VOT name="Unfunctional_Particle" value="33"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="ل">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Preposition" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+   <Item string="و">
+      <MyVOTs>
+         <VOT name="NVA" value="100">
+            <VOT name="Particle" value="100">
+				<VOT name="Conjunction" value="100"/>
+			</VOT>
+         </VOT>
+      </MyVOTs>
+   </Item>
+</VOTs>

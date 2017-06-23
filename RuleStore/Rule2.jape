@@ -1,0 +1,14 @@
+Phase: All
+Input: 
+Options:
+
+rule:Rule2
+Priority: 100
+(
+	({Token}):X 
+	{SpaceToken.kind == space}
+	{Token.string=="من"} 
+	{SpaceToken.kind == space}
+	({Token.POS=="(Common_Noun)"}):Y
+):testRule -->
+:testRule.Rule2 = {concept=:Y.Token.stem ,token1=:X.Token.stem}

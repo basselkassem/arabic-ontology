@@ -1,0 +1,1 @@
+(Common_Noun)%(Verb)%(Common_Noun)%(Preposition)%(Common_Noun)

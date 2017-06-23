@@ -1,0 +1,15 @@
+X0=>(Preposition)%(Common_Noun)
+X1=>(Perfect)%(Common_Noun)
+X2=>(Perfect)%X0
+X3=>X1%X0
+X4=>X1%(Common_Noun)
+X5=>(Common_Noun)%X0
+X6=>(Common_Noun)%X3
+X7=>(Common_Noun)%X4
+X8=>(Common_Noun)%X2
+S=>X3
+S=>X4
+S=>X5
+S=>X6
+S=>X7
+S=>X8

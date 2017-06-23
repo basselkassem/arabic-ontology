@@ -1,0 +1,44 @@
+/** SOCIAL BAR **/
+.img-caption-facebook-container span { width:auto; line-height:21px; color:#ffffff;}
+.right-side-under.floating-left { margin-top:0px; margin-right: 0px;}
+.right-side-under {width:124px;}
+.under-link-objects{ padding-top:10px;}
+a.bookmarkrss {display:none;}
+
+/* Append the below to "article.css" file*/
+.share-count-container{overflow:hidden; text-align:left; padding:0px; padding-left:0px; background-color: #F5F5F5; margin-bottom:10px; border: 1px solid #DDDDDD; border-top:none;  }
+.share-count-container-buttom{
+	float: left;
+	width: 424px;	
+	overflow:hidden;
+	text-align:left;
+	padding:0px;
+	padding-left:0px;
+	background-color: #F5F5F5;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-top:20px;
+}
+.fb-twitter-container{ float:left; overflow:hidden; width:auto; padding-top:4px;}
+.facebookBTN{float:left; }
+.tweetBTN{float:left; margin-left:2px; }
+.recommend-btn{text-align:left;}
+
+#ArticleCaption {
+    background: url("../images/caption.png") repeat scroll right top transparent;
+    font-family: tahoma;
+    font-size: 12px;
+    font-weight: normal;
+    height: 32px;
+    width: 424px;
+	display: block; 
+	margin-top:-32px; 
+	position:absolute;
+	overflow:hidden;
+}
+#ArticleCaption-inner { margin:10px; margin-top:0px;}
+
+
+.gPlusBTN { float:left; }
+.pintBTN{ float:left;}
+.diggBTN { float:left; margin-left:14px;}

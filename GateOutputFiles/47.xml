@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">encoding</Name>
+  <Value className="java.lang.String">utf-8</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />«·√Ã‰»Ì<Node id="7" /> <Node id="8" />«·–Ì<Node id="12" /> <Node id="13" />ÌœŒ·<Node id="17" /> <Node id="18" />Êÿ‰<Node id="21" /> <Node id="22" />€Ì—Â<Node id="26" /> <Node id="27" />·Ì” €·<Node id="33" />.<Node id="34" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="tokenizerAnnotationSet">
+<Annotation Id="0" Type="Token" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">Ã‰»</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String">«·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String">«·√›⁄·Ì</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">«·√Ã‰»Ì</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(Genitive_Pronoun)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">√Ã‰»</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">arabic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String">Ì</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="SpaceToken" StartNode="7" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">space</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String"> </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Token" StartNode="8" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">ﬂ·„…_Œ«’…</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">«·–Ì</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(Relative_Pronoun)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">«·–Ì</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">arabic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="SpaceToken" StartNode="12" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">space</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String"> </Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Token" StartNode="13" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">œŒ·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String">Ì›⁄·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ÌœŒ·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(Imperfect)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">ÌœŒ·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">arabic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="SpaceToken" StartNode="17" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">space</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String"> </Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Token" StartNode="18" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">Êÿ‰</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String">›⁄·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Êÿ‰</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(Common_Noun)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">Êÿ‰</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">arabic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="SpaceToken" StartNode="21" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">space</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String"> </Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Token" StartNode="22" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">€Ì—</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String">›⁄·Â</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">€Ì—Â</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(Genitive_Pronoun)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">€Ì—</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">arabic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String">Â</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="SpaceToken" StartNode="26" EndNode="27">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">space</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String"> </Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Token" StartNode="27" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">€··</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String">·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String">·Ì” ›⁄·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">·Ì” €·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(Imperfect)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">Ì” €·</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">arabic</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Token" StartNode="33" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">root</Name>
+  <Value className="java.lang.String">⁄·«„…_ —ﬁÌ„</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prefix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">patern</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">POS</Name>
+  <Value className="java.lang.String">(PUN)</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">stem</Name>
+  <Value className="java.lang.String">.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">suffix</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">punctuation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Split" StartNode="33" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">internal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Sentence" StartNode="0" EndNode="34">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

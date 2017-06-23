@@ -1,0 +1,79 @@
+/*  ============ Search Results Override ============ */
+
+.special-search-results-number a {
+	font-family:tahoma;
+}
+
+.article_date {
+	font-size: 11px;
+	color: #666666;
+	font-size: 11px;
+	font-family:tahoma;
+	padding: 4px 0 7px 0;
+}
+
+.source-name {
+	color: #B60103;
+	float: right;
+	font-size: 14px;
+	font-weight: bold;
+	margin-right: 10px;
+	padding-bottom: 4px;
+	text-align: right;
+}
+
+.article-more {
+	float: none;
+	clear: both;
+	color: #FF0000;
+	display: inline-block;
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+#searchform .special-search-form-arrangment {
+	border: 1px solid #DDDDDD;
+	float: left;
+	padding: 3px;
+	width: 190px;
+}
+
+#searchform .black-gray-text-arrangment {
+	float: left;
+	width: auto;
+	padding-left: 10px;
+}
+
+#searchform .special-search-results-number {
+	padding-top: 8px;
+}
+
+.no-results {
+	padding-top: 25px;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: right;
+	color: #555;
+}
+
+#searchform #searchinput {
+	height: 23px;
+	margin-left: 8px;
+}
+
+#search_ar_form .black-gray-text-arrangment {
+font-family:tahoma;
+font-size:12px;
+font-weight:normal;
+padding-top:1px;
+text-align:left;
+width:120px;
+}
+
+#search_ar_form .special-search-form-arrangment {
+	float:left;
+}
+
+div.searchResultsInfo { padding:6px 0 0 0;  text-align:left; direction:rtl; }
+div.searchResultsInfo span {color: #641964; }
+/*  ============ Search Results End ============ */

@@ -1,0 +1,12 @@
+﻿Phase:	All
+Input: Token SpaceToken Sentence
+Options: control = appelt
+
+rule:Test
+Priority: 100
+(
+{Token.string == "الحرب"}
+{SpaceToken}
+{Token.string == "العالمية"}
+):testRule -->
+:testRule.Term = {rule ="Test"}

@@ -1,0 +1,395 @@
+/*
+	root element for the scrollable.
+	when scrolling occurs this element stays still.
+*/
+.scrollable {
+
+	/* required settings */
+	position:relative;
+	overflow:hidden;
+	width: 549px;
+	height:130px;
+    float:right;
+	padding-right:0px;
+	/* custom decorations */
+/*	background:url(/img/global/gradient/h300.png) repeat-x;*/
+}
+
+/*
+	root element for scrollable items. Must be absolutely positioned
+	and it should have a extremely large width to accomodate scrollable items.
+	it's enough that you set the width and height for the root element and
+	not for this element.
+*/
+/*.scrollable .items {
+	 this cannot be too large 
+	width:20000em;
+	overflow:hidden;
+	position:absolute;
+	float:right;
+}*/
+.scrollable .items {
+	/* this cannot be too large */
+	width:20000em;
+	position:absolute;
+	clear:both;
+}
+
+.items div.cont {
+	float:right;
+	width:560px;
+}
+
+.items div.cont div.itm {
+	display:block;
+	float:right;
+	width:124px;
+	text-align:center;
+	font-size:14px;
+	color:#553366;
+	padding-left:0px;
+	padding-right:16px;
+	line-height:16px;
+	cursor:pointer;
+	*padding:auto 5px;
+}
+
+.items div.cont div.itm a {
+	color:#553366;
+	display:block;
+	height:116px;
+	text-decoration:none;
+	position:relative;
+	font-weight: bold;
+}
+
+.items div.cont div.itm span.play-small
+{
+    display: block;
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: url(../images/play-small.png) no-repeat;
+	position:absolute;
+    top: 28px;
+    left: 50px;
+    cursor: pointer;
+}
+
+
+table.vertical-table-items td
+{
+	vertical-align:top;	
+}
+
+/* single scrollable item */
+.scrollable img
+{
+	float: none;
+    clear: both;
+    padding: 0px;
+    border: 2px solid #e1e1e1;
+    width: 111px;
+    height: 74px;
+	
+}
+
+/* single scrollable item */
+.scrollable a:hover img
+{
+    border: 2px solid #73337d;
+}
+
+/* root element for scrollable */
+.vertical {  
+	
+	/* required settings */
+	/*height: 500px;*/	 
+	width: 300px;
+	
+
+	/* vertical scrollers have typically larger height than width */	
+	background:none;
+	
+}
+
+ .vertical .items {	
+	width:300px;
+	/* this cannot be too large */
+	
+	/*height:500px;*/
+	position:absolute;
+	clear:both;
+}
+
+.vertical .items .vertical-item
+{
+	border-bottom:solid 1px #ececec;
+	overflow:hidden;
+	min-height:78px;
+	padding-top:11px;
+	width:280px;
+	margin-left:10px;
+	margin-right:10px;
+	display:block;
+	float:none;
+	clear:both;
+	cursor:pointer;	
+}
+
+.vertical .items div {
+	float:right;
+	width:214px
+}
+.vertical-item img
+{
+	width:50px;
+	height:75px;
+	border:solid 1px #9d9d9d;
+	margin-left:8px;
+	float:right;
+}
+
+.special-vertical-height .vertical-item a img, .vertical-item a:hover img {
+	width: 50px;
+	height: 75px;
+	border: solid 1px #9d9d9d;
+	margin-left: 8px;
+	float: right;
+}
+
+.vertical .items .vertical-item-text
+{
+	overflow:hidden;
+	color:#666666;
+	display:inline-block;
+	width:215px;
+	line-height:18px;
+}
+
+
+.items div.vertical-item-header
+{
+	font-weight:bold;
+	clear:both;	
+	display:block;
+	float:none;
+	margin-bottom:0px;
+}
+
+.items div.vertical-item-header a
+{
+	font-size:12pt;
+	font-family:arabic transparent;
+}
+
+.vertical-item-container-text
+{
+	display:block;
+	float:none;
+	clear:both;	
+	text-align:justify;
+}
+
+.vertical-item-text a.link-like-span
+{
+	color:#8d3390;
+	text-decoration:none;
+	float:none;
+	font-weight:bold;
+	clear:both;
+	float:left;
+	font-family:arabic transparent;
+	font-size:14px;
+}
+
+.vertical-item-text a:hover
+{
+	text-decoration:underline;
+}
+
+.all-opinions
+{
+	width:50px;
+	height:16px;
+	display:block;
+	float:left;
+	background:url(../images/all-opinions.png) no-repeat;
+	margin:4px 10px;	
+}
+
+
+.vertical-item-text a
+{
+	color:#666666;	
+	font-size:11px;
+	font-family:tahoma;
+	text-decoration:none;
+	cursor:pointer;
+	display:inline-block;
+	overflow:hidden;
+}
+
+
+.vertical-item-text div
+{
+	cursor:pointer;
+}
+.vertical-item-text a:hover
+{
+	text-decoration:none;
+}
+
+.vertical-item-text a .vertical-item-header
+{
+	font-weight:bold;
+
+}
+
+.vertical-item-text .vertical-item-header
+{
+	font-weight:bold;
+
+}
+
+
+
+/**/
+
+
+/* prev, next, prevPage and nextPage buttons */
+a.browse {
+	background:url(../images/scroll-left-right.gif) no-repeat;
+	display:inline-block;
+	width:13px;
+	height:18px;
+	float:right;
+	margin:30px 10px;
+	cursor:pointer;
+	font-size:1px;
+}
+
+/* right 
+a.right 				{ background-position: -13px top; clear:right; margin-right: 0px;}
+a.right:hover 		{ background-position: -13px -18px; }
+a.right:active 	{ background-position:-13px -36px; } 
+
+
+-- left --
+a.left				{ float:left; margin-left: 0px; } 
+a.left:hover  		{ background-position:0 -18px; }
+a.left:active  	{ background-position:0 -36px; }
+
+a.right.disabled {
+	background-position: -13px bottom;		
+}
+
+a.left.disabled {
+	background-position: 0 bottom;	
+	
+} 
+*/
+
+/* right */
+a.left 				{ background-position: -13px top; clear:right; margin-right: 0px;}
+a.left:hover 		{ background-position: -13px -18px; }
+a.left:active 	{ background-position:-13px -36px; } 
+
+
+/* left */
+a.right				{ float:left; margin-left: 0px; } 
+a.right:hover  		{ background-position:0 -18px; }
+a.right:active  	{ background-position:0 -36px; }
+
+
+.arrowdivleft a.disabled {
+	background-position: -13px bottom;		
+}
+
+.arrowdivright a.disabled {
+	background-position: 0 bottom;	
+	
+} 
+
+/* up and down */
+a.up, a.down		{ 
+	background:url(../images/scroll-top-bottom.png) red no-repeat; 	
+	width:24px;
+	height:23px;
+	display:inline-block;
+	border:soldi 1px red;
+	padding:0px;
+}
+
+/* down */
+a.down 				{ background-position: left top; margin:0 10px 8px auto; }
+a.down:hover  		{ background-position: left -23px; }
+a.down:active  		{ background-position: left -23px; }
+.arrowdivdown a.disabled		{ background-position: left -46px; }
+
+/* up */
+a.up 				{ background-position: -24px 0; margin:0 auto 8px auto; }
+a.up:hover  		{ background-position: -24px -23px; }
+a.up:active  		{ background-position: -24px -23px; } 
+.arrowdivup a.disabled		{ background-position: -24px -46px; }
+
+
+
+
+/**/
+
+
+/* position and dimensions of the navigator */
+.navi {
+	margin-right:9px;
+	margin-top:0px;
+	width:auto;
+	height:20px;
+	float:right;
+	clear:both;
+}
+
+
+/* items inside navigator */
+.navi a {
+	width:8px;
+	height:8px;
+	float:right;
+	margin:3px;
+	background:url(../images/navigator.png) 0 0 no-repeat;
+	display:block;
+	font-size:1px;
+}
+
+/* mouseover state */
+.navi a:hover {
+	background-position:0 -8px;      
+}
+
+/* active state (current page state) */
+.navi a.active {
+	background-position:0 -16px;     
+}
+
+
+.arrowdivleft,.arrowdivr{width:23px;height:78px;}
+.arrowdivleft{float:right;}
+.arrowdivright{float:left;}
+
+.arrowdivup,.arrowdivdown{width:33px;height:24px;float:right;}
+
+div.items div.itm a.imgContainer, div.data-row div.itm a.imgContainer { padding:0; margin:0; height:84px; cursor:pointer; font-weight:bold; }
+div.scrollable div.items div.itm a { cursor:pointer; height: auto;}
+
+.archive-block {
+	float: left;
+	margin-left: 9px;
+}
+
+.ui-tabs-panel .vertical { 
+	/* required settings */
+	position:relative;
+	overflow:hidden;
+	/* vertical scrollers have typically larger height than width */	
+	background:none;
+ }

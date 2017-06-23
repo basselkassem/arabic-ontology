@@ -1,0 +1,2030 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://klkl#"
+     xml:base="http://klkl"
+     xmlns:ع5="http://klklيُعَ"
+     xmlns:ع4="http://klklرِعَ"
+     xmlns:ع3="http://klklأَوْعَ"
+     xmlns:ع2="http://klklمَوْعِ"
+     xmlns:ن2="http://klklذَنُ"
+     xmlns:ي2="http://klklرُفَهْنِيَ"
+     xmlns:ي3="http://klklوَافِيَ"
+     xmlns:ق5="http://klklخَلِقَ"
+     xmlns:ق4="http://klklوَرَقَ"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:ق3="http://klklرَقُ"
+     xmlns:ق2="http://klklدُرْقُ"
+     xmlns:ق9="http://klklخِلْقَ"
+     xmlns:ق8="http://klklوَقْ"
+     xmlns:ق7="http://klklوَرْقَ"
+     xmlns:ق6="http://klklمُوْقَ"
+     xmlns:و="http://klklدَوْ"
+     xmlns:ار="http://klklوَارِ"
+     xmlns:ي="http://klklوَذِيَّ"
+     xmlns:اد="http://klklوَادِ"
+     xmlns:ر9="http://klklدَوْرَ"
+     xmlns:ر7="http://klklمِدْرَ"
+     xmlns:ر8="http://klklدَرَ"
+     xmlns:ف="http://klklرُفَ"
+     xmlns:ر5="http://klklفِطْرَ"
+     xmlns:ق="http://klklأَوْقَ"
+     xmlns:ك="http://klklوُكْ"
+     xmlns:ر6="http://klklوَذِرَ"
+     xmlns:ل="http://klklدِخْلَ"
+     xmlns:ر3="http://klklوَرَ"
+     xmlns:م2="http://klklخِمَ"
+     xmlns:م="http://klklمُذَمَّ"
+     xmlns:اح="http://klklرَاحِ"
+     xmlns:ر4="http://klklدَرْ"
+     xmlns:يج="http://klklوَلِيجَ"
+     xmlns:م4="http://klklوَذْمَ"
+     xmlns:ن="http://klklذَنَ"
+     xmlns:ر2="http://klklوِرْ"
+     xmlns:م3="http://klklرَحْمَ"
+     xmlns:م5="http://klklرَثْمَ"
+     xmlns:اف="http://klklوَافِ"
+     xmlns:م6="http://klklخُمَ"
+     xmlns:م7="http://klklدُجْمَ"
+     xmlns:م8="http://klklخَمْ"
+     xmlns:ام="http://klklذَمَامَ"
+     xmlns:http="http://"
+     xmlns:ف2="http://klklوَدَفَ"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:ر10="http://klklمَيْسَرَ"
+     xmlns:ف4="http://klklأَوْفَ"
+     xmlns:ف3="http://klklرَفْ"
+     xmlns:ف5="http://klklرِفَ"
+     xmlns:ل2="http://klklخَلَ"
+     xmlns:خ="http://klklدَخِ"
+     xmlns:د="http://klklوَدِ"
+     xmlns:ل3="http://klklخُلاَلَ"
+     xmlns:ج="http://klklدَجْ"
+     xmlns:ح="http://klklدِحَ"
+     xmlns:ث="http://klklرَثَ"
+     xmlns:خ2="http://klklدَخَّ"
+     xmlns:و3="http://klklدَوَّ"
+     xmlns:خ3="http://klklدِخَ"
+     xmlns:أ="http://klklوَذْأَ"
+     xmlns:و2="http://klklيَوْ"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:اح2="http://klklدَاحِ"
+     xmlns:ع="http://klklوَعْ"
+     xmlns:س2="http://klklمَيْسُ"
+     xmlns:ط="http://klklوَرْطَ"
+     xmlns:ض="http://klklدَاحِضَ"
+     xmlns:ص="http://klklوَصْ"
+     xmlns:ش="http://klklوَشَ"
+     xmlns:س="http://klklمَرْسَ"
+     xmlns:ر="http://klklوَرِ"
+     xmlns:ذ="http://klklعَذَ"
+     xmlns:ك2="http://klklأَوْكَ"
+     xmlns:ث2="http://klklوَعْثَ"
+     xmlns:س5="http://klklيَسِ"
+     xmlns:د2="http://klklمَوْعِدَ"
+     xmlns:س3="http://klklيَسَ"
+     xmlns:س4="http://klklوَعْسَ"
+     xmlns:klkl="http://klkl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:لا="http://klklخِلاَ">
+    <owl:Ontology rdf:about="http://klkl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://klkl#hasExample -->
+
+    <owl:DatatypeProperty rdf:about="http://klkl#hasExample"/>
+    
+
+
+    <!-- http://klkl#hasType -->
+
+    <owl:DatatypeProperty rdf:about="http://klkl#hasType"/>
+    
+
+
+    <!-- http://klkl#hasVocalized -->
+
+    <owl:DatatypeProperty rdf:about="http://klkl#hasVocalized"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://klklأداة -->
+
+    <owl:Class rdf:about="http://klklأداة">
+        <rdfs:subClassOf rdf:resource="http://klklكلمة"/>
+        <rdfs:comment xml:lang="ar">أداة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklأَوْعَر -->
+
+    <owl:Class rdf:about="http://klklأَوْعَر">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الصَّعب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklأَوْفَى -->
+
+    <owl:Class rdf:about="http://klklأَوْفَى">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَتَمُّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklأَوْقَاص -->
+
+    <owl:Class rdf:about="http://klklأَوْقَاص">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الزَّعانِف من النَّاس.</rdfs:comment>
+        <rdfs:comment xml:lang="ar">المتفرِّقون.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklأَوْكَس -->
+
+    <owl:Class rdf:about="http://klklأَوْكَس">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَنْقَص.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklاسم -->
+
+    <owl:Class rdf:about="http://klklاسم">
+        <rdfs:subClassOf rdf:resource="http://klklكلمة"/>
+        <rdfs:comment xml:lang="ar">اسم</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخالفة -->
+
+    <owl:Class rdf:about="http://klklخالفة">
+        <rdfs:subClassOf rdf:resource="http://klklكلمة"/>
+        <rdfs:comment xml:lang="ar">خالفة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخَلَل -->
+
+    <owl:Class rdf:about="http://klklخَلَل">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الفسادُ والضَّعْفُ.</rdfs:comment>
+        <rdfs:comment xml:lang="ar">مُنْفَرَج ما بين كلّ شيئين.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخَلِقَة -->
+
+    <owl:Class rdf:about="http://klklخَلِقَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّحَابة المُسْتَوِيَة  المُخِيلَة للمطر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخَمْر -->
+
+    <owl:Class rdf:about="http://klklخَمْر">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">العِنَب.</rdfs:comment>
+        <rdfs:comment xml:lang="ar">ما أَسكر من الشَّرَاب وعصير العنب ونحْوِه، لأَنها تغطِّي العَقْلَ. (وهي مُؤَنَّثَة وقد تذكَّر).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخُلاَلَة -->
+
+    <owl:Class rdf:about="http://klklخُلاَلَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">ما يُلْقَى من بقيَّة الطَّعَام عِنْد التَّخلُّل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخُمَار -->
+
+    <owl:Class rdf:about="http://klklخُمَار">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من النَّاس: جماعتهم وكَثرتهم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخِلاَل -->
+
+    <owl:Class rdf:about="http://klklخِلاَل">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">المُخَالّة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخِلْقَة -->
+
+    <owl:Class rdf:about="http://klklخِلْقَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الفِطْرَة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklخِمَار -->
+
+    <owl:Class rdf:about="http://klklخِمَار">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">العِمامة: لأَن الرَّجُل يغطِّي بها رأْسَه ويُديرها تحت الحنك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَاحِض -->
+
+    <owl:Class rdf:about="http://klklدَاحِض">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من لا ثباتَ له ولا عزيمة في الأُمور.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَاحِضَة -->
+
+    <owl:Class rdf:about="http://klklدَاحِضَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من الحجج: الباطلة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَارِيّ -->
+
+    <owl:Class rdf:about="http://klklدَارِيّ">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">العَطَّار. (نسبة إِلى دارِين).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَجْم -->
+
+    <owl:Class rdf:about="http://klklدَجْم">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الضَّرْبُ والنَّوْعُ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَجْن -->
+
+    <owl:Class rdf:about="http://klklدَجْن">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">إِلباسُ الغيم الأَرْضَ وأَقطار السَّمَاء.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَخِيل -->
+
+    <owl:Class rdf:about="http://klklدَخِيل">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَجنبيُّ الذي يدخل وطن غيره ليستغلَّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَخَّال -->
+
+    <owl:Class rdf:about="http://klklدَخَّال">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من الرِّجَال: الكثير التَّصرف في الأُمور.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَرَك -->
+
+    <owl:Class rdf:about="http://klklدَرَك">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">اسم مصدر من الإِدراك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَرْك -->
+
+    <owl:Class rdf:about="http://klklدَرْك">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">أَسفل كل شيءٍ ذي عُمْق، كالبئر ونحوها.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَوَّار -->
+
+    <owl:Class rdf:about="http://klklدَوَّار">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الكثير الدَّوَران.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَوْر -->
+
+    <owl:Class rdf:about="http://klklدَوْر">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الطَّبَقَة من الشَّيْءِ المُدار بعضُه فوق بعضِه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدَوْرَق -->
+
+    <owl:Class rdf:about="http://klklدَوْرَق">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">قلنسوة كان يلبسها المتنسِّكون قديمًا.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدُجْمَة -->
+
+    <owl:Class rdf:about="http://klklدُجْمَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الظُّلْمَة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدُرْقُوع -->
+
+    <owl:Class rdf:about="http://klklدُرْقُوع">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الجوع الشَّديد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدِثَارِيّ -->
+
+    <owl:Class rdf:about="http://klklدِثَارِيّ">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من الرِّجَال: الكسلان.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدِحَاس -->
+
+    <owl:Class rdf:about="http://klklدِحَاس">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الامتلاء والازدحام.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدِخَال -->
+
+    <owl:Class rdf:about="http://klklدِخَال">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">في الوِرْدِ: أَن يُدْخِلَ بعيراً قد شرب بين بعيريْن ناهليْن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklدِخْلَة -->
+
+    <owl:Class rdf:about="http://klklدِخْلَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من الإِنْسَان: داخلته.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklذَمَامَة -->
+
+    <owl:Class rdf:about="http://klklذَمَامَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الحياء والإِشفاق من الذَّم واللوم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklذَنَب -->
+
+    <owl:Class rdf:about="http://klklذَنَب">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">مِنْ كُلِّ شَيْءٍٍ: آخره.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklذَنُوب -->
+
+    <owl:Class rdf:about="http://klklذَنُوب">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من الأَيام: طويل الشَّرّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرَاحِم -->
+
+    <owl:Class rdf:about="http://klklرَاحِم">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الشَّاة الوارمة الرَّحِم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرَثَد -->
+
+    <owl:Class rdf:about="http://klklرَثَد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">ضَعَفَةُ النَّاس.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرَثْمَة -->
+
+    <owl:Class rdf:about="http://klklرَثْمَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الطَرَف من الخَبر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرَحْمَة -->
+
+    <owl:Class rdf:about="http://klklرَحْمَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الخير والنِّعمة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرَفْش -->
+
+    <owl:Class rdf:about="http://klklرَفْش">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَكل الجيِّد والشُّرْب في النَّعمة والأَمن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرَقُوء -->
+
+    <owl:Class rdf:about="http://klklرَقُوء">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">ما يوضع على الدَّمِ ونحوه ليُرقِئه ويُسْكِنَه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرُفَة -->
+
+    <owl:Class rdf:about="http://klklرُفَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">التِّبن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرُفَهْنِيَة -->
+
+    <owl:Class rdf:about="http://klklرُفَهْنِيَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">رَغَدُ العَيْش، وسَعَةُ الرِّزْق والخِصْب والنَّعيم.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرِعَة -->
+
+    <owl:Class rdf:about="http://klklرِعَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَدب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklرِفَاء -->
+
+    <owl:Class rdf:about="http://klklرِفَاء">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الوفاق والوئام والخَلَف الصَّالِح. (وانظر: رفء)</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklصفة -->
+
+    <owl:Class rdf:about="http://klklصفة">
+        <rdfs:subClassOf rdf:resource="http://klklكلمة"/>
+        <rdfs:comment xml:lang="ar">صفة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklظرف -->
+
+    <owl:Class rdf:about="http://klklظرف">
+        <rdfs:subClassOf rdf:resource="http://klklكلمة"/>
+        <rdfs:comment xml:lang="ar">ظرف</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklعَذَاة -->
+
+    <owl:Class rdf:about="http://klklعَذَاة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَرْض البعيدة من الماءِ والوَخَمِ والوَبَاء.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklعَذَل -->
+
+    <owl:Class rdf:about="http://klklعَذَل">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">المَلاَمة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklفعل -->
+
+    <owl:Class rdf:about="http://klklفعل">
+        <rdfs:subClassOf rdf:resource="http://klklكلمة"/>
+        <rdfs:comment xml:lang="ar">فعل</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklفِطْرَة -->
+
+    <owl:Class rdf:about="http://klklفِطْرَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الطَّبيعة السَّليمة التي لم تُشَبْ بِعَيب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklكلمة -->
+
+    <owl:Class rdf:about="http://klklكلمة">
+        <rdfs:comment xml:lang="ar">كلمة</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمفهوم -->
+
+    <owl:Class rdf:about="http://klklمفهوم">
+        <rdfs:comment xml:lang="ar">مفهوم</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمَرْسَن -->
+
+    <owl:Class rdf:about="http://klklمَرْسَن">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الأَنْف.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمَوْعِد -->
+
+    <owl:Class rdf:about="http://klklمَوْعِد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">العَهْد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمَوْعِدَة -->
+
+    <owl:Class rdf:about="http://klklمَوْعِدَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الوَعْد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمَيْسَرَة -->
+
+    <owl:Class rdf:about="http://klklمَيْسَرَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">خِلافُ الميمنة، أَو الجهة اليسرى.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمَيْسُور -->
+
+    <owl:Class rdf:about="http://klklمَيْسُور">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">اليُسْر: وهو ضدّ المعسور. وهو مصدرٌ على وزن مفعول.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمُذَمَّر -->
+
+    <owl:Class rdf:about="http://klklمُذَمَّر">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الكاهِل والعُنُق وما حَوْلَه إِلى الذِّفْرَي.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمُوْقَر -->
+
+    <owl:Class rdf:about="http://klklمُوْقَر">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من النَّخل: الكثيرةُ الحمل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklمِدْرَى -->
+
+    <owl:Class rdf:about="http://klklمِدْرَى">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">القرن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَادِك -->
+
+    <owl:Class rdf:about="http://klklوَادِك">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّمين ذو الوَدَك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَارِد -->
+
+    <owl:Class rdf:about="http://klklوَارِد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّابِق.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَافِل -->
+
+    <owl:Class rdf:about="http://klklوَافِل">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">البالغ، أَو الوافِر من القَصَب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَافِيَة -->
+
+    <owl:Class rdf:about="http://klklوَافِيَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السِّنجَةُ التَّامة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَدَفَة -->
+
+    <owl:Class rdf:about="http://klklوَدَفَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الرَّوضَة الخضراء.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَدِيك -->
+
+    <owl:Class rdf:about="http://klklوَدِيك">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّمين.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَذِرَة -->
+
+    <owl:Class rdf:about="http://klklوَذِرَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الكثير الوَذْر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَذِيَّة -->
+
+    <owl:Class rdf:about="http://klklوَذِيَّة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الحقيرة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَذْأَة -->
+
+    <owl:Class rdf:about="http://klklوَذْأَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">العِلَّة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَذْمَاء -->
+
+    <owl:Class rdf:about="http://klklوَذْمَاء">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">العَاقِر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرَاء -->
+
+    <owl:Class rdf:about="http://klklوَرَاء">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">تكون خَلفًا وتكون قُدَّامًا. (ضدّ).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرَاق -->
+
+    <owl:Class rdf:about="http://klklوَرَاق">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">خُضرةُ الأَرْض من الحشيش وليس من الورق.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرَقَة -->
+
+    <owl:Class rdf:about="http://klklوَرَقَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الخسيسُ مِنَ الرِّجَال.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرِيد -->
+
+    <owl:Class rdf:about="http://klklوَرِيد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">مَثَلٌ في شِدَّةِ القُرْب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرِيس -->
+
+    <owl:Class rdf:about="http://klklوَرِيس">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">المصبوغ بالوَرْس.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرْطَة -->
+
+    <owl:Class rdf:about="http://klklوَرْطَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">كلّ أَمْرٍ تَعْسُر النَّجاة منه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَرْقَة -->
+
+    <owl:Class rdf:about="http://klklوَرْقَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">في القَوْس: العَيْب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَشَل -->
+
+    <owl:Class rdf:about="http://klklوَشَل">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الماء القليل يتحلَّب من جبل أَو صخرة ولا يتَّصل قَطرُه.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَصْم -->
+
+    <owl:Class rdf:about="http://klklوَصْم">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الصَّدْع.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَعْثَاء -->
+
+    <owl:Class rdf:about="http://klklوَعْثَاء">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">المَشَقَّة والتَّعب.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَعْثَة -->
+
+    <owl:Class rdf:about="http://klklوَعْثَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">من النِّساء: السَّمينة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَعْد -->
+
+    <owl:Class rdf:about="http://klklوَعْد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">ما يَلْتَزِمُ الإِنْسَانُ بإِنجازِه لغيره من قَولٍ أَو فِعْل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَعْسَاء -->
+
+    <owl:Class rdf:about="http://klklوَعْسَاء">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّهل اللَّيِّن من الرَّمْلِ تَغيبُ فيه الأَرجل.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَقْش -->
+
+    <owl:Class rdf:about="http://klklوَقْش">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الحِسّ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوَلِيجَة -->
+
+    <owl:Class rdf:about="http://klklوَلِيجَة">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">مَن تتَّخذه معتمدًا عليه من غير أَهلك.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوُكْد -->
+
+    <owl:Class rdf:about="http://klklوُكْد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">السَّعي والجُهد.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklوِرْد -->
+
+    <owl:Class rdf:about="http://klklوِرْد">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">النَّصِيبُ من القرآن أَو الذِّكر.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklيَسَار -->
+
+    <owl:Class rdf:about="http://klklيَسَار">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">خِلاف اليَمِين، وهو الجهة اليُسرى.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklيَسِير -->
+
+    <owl:Class rdf:about="http://klklيَسِير">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الهَيِّن.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklيَوْم -->
+
+    <owl:Class rdf:about="http://klklيَوْم">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الوقت الحاضِر؛ أَي: وَقْتُ التَّكَلُّمِ.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://klklيُعَار -->
+
+    <owl:Class rdf:about="http://klklيُعَار">
+        <rdfs:subClassOf rdf:resource="http://klklمفهوم"/>
+        <rdfs:comment xml:lang="ar">الشَّديد من أَصوات الشَّاة.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://klklأوعر -->
+
+    <owl:NamedIndividual rdf:about="http://klklأوعر">
+        <rdf:type rdf:resource="http://klklأَوْعَر"/>
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْعَر</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: طَريقٌ أَوْعَر.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklأوفى -->
+
+    <owl:NamedIndividual rdf:about="http://klklأوفى">
+        <rdf:type rdf:resource="http://klklأَوْفَى"/>
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْفَى</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم تفضيل</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَأَنَّ سَعْيَهُ سَوْفَ يُرَى ثُمَّ يُجْزَاهُ الجَزاءَ الأَوْفَى} [النجم:41].</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklأوقاص -->
+
+    <owl:NamedIndividual rdf:about="http://klklأوقاص">
+        <rdf:type rdf:resource="http://klklأَوْقَاص"/>
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْقَاص</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">جمع</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَتانا أَوقاصٌ من بني فلان.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: صَاروا أَوْقَاصًا.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklأوكس -->
+
+    <owl:NamedIndividual rdf:about="http://klklأوكس">
+        <rdf:type rdf:resource="http://klklأَوْكَس"/>
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">أَوْكَس</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَوْكَسُ الثَّمَنَيْنِ: أَنْقَصُهُما.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklخلال -->
+
+    <owl:NamedIndividual rdf:about="http://klklخلال">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklخِلاَل"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خِلاَل</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {لاَ بَيْعٌ فِيهِ وَلاَ خِلاَلٌ}[إبراهيم:31].</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklخلالة -->
+
+    <owl:NamedIndividual rdf:about="http://klklخلالة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklخُلاَلَة"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خُلاَلَة</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ يأْكل خُلالَتَه: إِذا كان بخيلاً.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklخلقة -->
+
+    <owl:NamedIndividual rdf:about="http://klklخلقة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklخَلِقَة"/>
+        <rdf:type rdf:resource="http://klklخِلْقَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خَلِقَة</hasVocalized>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خِلْقَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَحَابَةٌ خَلِقَةٌ.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: عَيْبٌ خِلْقِيّ: موجودٌ من أَصل الخِلْقَة، وليس بعارض.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklخلل -->
+
+    <owl:NamedIndividual rdf:about="http://klklخلل">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklخَلَل"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خَلَل</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: جَاسَ خَلَلَ الدِّيار: سار وتردَّدَ بينَها.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: في رأْيه خَلَلٌ.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو خَلَلَهُم: بينَهم.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklخمار -->
+
+    <owl:NamedIndividual rdf:about="http://klklخمار">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklخُمَار"/>
+        <rdf:type rdf:resource="http://klklخِمَار"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خُمَار</hasVocalized>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خِمَار</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي الحديث: &quot;أَنه كان يمسحُ على الخُفّ والخِمَار&quot;: العِمامة.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: دخل فلانٌ في خُمار النَّاس: فيما يواريه ويَسْتُره من أَلمها.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklخمر -->
+
+    <owl:NamedIndividual rdf:about="http://klklخمر">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklخَمْر"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">خَمْر</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {إِنِّي أَرَانِي أَعْصِرُ خَمْرًا}[يوسف:36].</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي المثل: &quot;خُمْرُ أَبي الرَّوْقاء ليست تسكر&quot;: يضرب للغنيّ الذي لا فضلَ له على أَحدٍ ولا إِحسان.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: الخمر ياقوتة سيالة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklداحض -->
+
+    <owl:NamedIndividual rdf:about="http://klklداحض">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَاحِض"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَاحِض</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ داحِض: لا ثبات له ولا عزيمة في الأمور.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklداحضة -->
+
+    <owl:NamedIndividual rdf:about="http://klklداحضة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَاحِضَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَاحِضَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: حُجَّةٌ داحضة: باطلة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklداري -->
+
+    <owl:NamedIndividual rdf:about="http://klklداري">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَارِيّ"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم منسوب</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَارِيّ</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي الحديث: &quot;مَثَل الجليس الصَّالح مَثَلُ الدَّارِيّ، إِن لم يُحذِك من عِطْره عَلِقَك مِنْ ريحه&quot;.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدثاري -->
+
+    <owl:NamedIndividual rdf:about="http://klklدثاري">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدِثَارِيّ"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِثَارِيّ</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: رجلٌ دِثَارِيّ: كسلان ساكنٌ لا يتصرّف.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدجم -->
+
+    <owl:NamedIndividual rdf:about="http://klklدجم">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَجْم"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَجْم</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: أَمِنْ هذا الدَّجْم أَنت؟.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدجمة -->
+
+    <owl:NamedIndividual rdf:about="http://klklدجمة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدُجْمَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دُجْمَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: انقشعت دُجَمُ الباطل.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو في دُجَم الهوى.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدجن -->
+
+    <owl:NamedIndividual rdf:about="http://klklدجن">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَجْن"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَجْن</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: يومُ دَجْنٍ. ويوصف به فيقال: يومٌ دَجْنٌ.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدحاس -->
+
+    <owl:NamedIndividual rdf:about="http://klklدحاس">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدِحَاس"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِحَاس</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بيتٌ دِحَاسٌ: كثيرُ الأَهل.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدخال -->
+
+    <owl:NamedIndividual rdf:about="http://klklدخال">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَخَّال"/>
+        <rdf:type rdf:resource="http://klklدِخَال"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَخَّال</hasVocalized>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِخَال</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَقَى إِبلَهُ دِخالاً.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ دَخَّال في الأُمور: كثيرُ التَّصرف فيها.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدخلة -->
+
+    <owl:NamedIndividual rdf:about="http://klklدخلة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدِخْلَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دِخْلَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو حَسَن الدِّخْلَة، وهو عفيف الدِّخْلَة، وهو خبيث الدِّخْلَة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدخيل -->
+
+    <owl:NamedIndividual rdf:about="http://klklدخيل">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَخِيل"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَخِيل</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: داءٌ دَخِيل: دَخْل.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدرقوع -->
+
+    <owl:NamedIndividual rdf:about="http://klklدرقوع">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدُرْقُوع"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دُرْقُوع</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: جوعٌ دُرْقُوع: شديد.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدرك -->
+
+    <owl:NamedIndividual rdf:about="http://klklدرك">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَرَك"/>
+        <rdf:type rdf:resource="http://klklدَرْك"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم مصدر</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَرَك</hasVocalized>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَرْك</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {لاَ تَخَافُ دَرَكًا وَلاَ تَخْشَى}[طه:77].</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلغَ الغَوَّاصُ دَرَك البحر.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلغَ الغَوَّاصُ دَرْك البحر.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدوار -->
+
+    <owl:NamedIndividual rdf:about="http://klklدوار">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَوَّار"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَوَّار</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صيغة مبالغة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: الدَّهْرُ دَوَّارٌ بالإِنسان: دائرٌ به.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدور -->
+
+    <owl:NamedIndividual rdf:about="http://klklدور">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَوْر"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَوْر</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: انْفَسَخَ دَوْرُ عمامتِه.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklدورق -->
+
+    <owl:NamedIndividual rdf:about="http://klklدورق">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklدَوْرَق"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">دَوْرَق</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فلانٌ دَوْرَق: متنسك.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklذمامة -->
+
+    <owl:NamedIndividual rdf:about="http://klklذمامة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklذَمَامَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ذَمَامَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي حديث موسى والخضر: &quot;أَخذتْه من صاحبه ذَمَامَةٌ&quot;.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklذنب -->
+
+    <owl:NamedIndividual rdf:about="http://klklذنب">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklذَنَب"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ذَنَب</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: نظر إِليه بذَنَب عينه: أَي بمؤخرها.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklذنوب -->
+
+    <owl:NamedIndividual rdf:about="http://klklذنوب">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklذَنُوب"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ذَنُوب</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صيغة مبالغة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: يومٌ ذَنُوب: طويل الشّر.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklراحم -->
+
+    <owl:NamedIndividual rdf:about="http://klklراحم">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَاحِم"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَاحِم</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: شاةٌ رَاحِم، وعنزٌ راحمٌ.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرثد -->
+
+    <owl:NamedIndividual rdf:about="http://klklرثد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَثَد"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَثَد</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: تركنا على الماءِ رَثَدًا ما يطيقون تَحَمُّلاً.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرثمة -->
+
+    <owl:NamedIndividual rdf:about="http://klklرثمة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَثْمَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَثْمَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلَغَهُ رَثْمَةٌ من الخبر: طَرَفٌ منه.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرحمة -->
+
+    <owl:NamedIndividual rdf:about="http://klklرحمة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَحْمَة"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَحْمَة</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُمْ}[يونس:21].</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرحموت -->
+
+    <owl:NamedIndividual rdf:about="http://klklرحموت">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَحْمَة"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَحَمُوت</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: &quot;رَهَبُوتٌ خيْرٌ لَكَ من رَحَمُوت&quot;: أَي لأَنْ تُرْهَبَ خيْرٌ لَكَ من أَن تُرْحَمَ. ولم يستعمل إِلاَّ مزدوِجًا.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرعة -->
+
+    <owl:NamedIndividual rdf:about="http://klklرعة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرِعَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رِعَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو حَسَن الرِّعة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرفاء -->
+
+    <owl:NamedIndividual rdf:about="http://klklرفاء">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرِفَاء"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رِفَاء</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال للمتزوج: بالرِّفاء والبنين: بالوفاق والوئام والخَلَفِ الصَّالح.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرفة -->
+
+    <owl:NamedIndividual rdf:about="http://klklرفة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرُفَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رُفَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي المثل: &quot;أَغنى من التُّفَةِ عن الرُّفة&quot;: يضرب للئيم إِذا شبع.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرفش -->
+
+    <owl:NamedIndividual rdf:about="http://klklرفش">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَفْش"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَفْش</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: وَقع في الرَّفْش والقَفْش: الأَكل ومباشرة النساء.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرفهنية -->
+
+    <owl:NamedIndividual rdf:about="http://klklرفهنية">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرُفَهْنِيَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رُفَهْنِيَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: هو في رُفَهْنِيَةٍ من العيش.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklرقوء -->
+
+    <owl:NamedIndividual rdf:about="http://klklرقوء">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklرَقُوء"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">رَقُوء</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَكَن النَّزْفُ بالرَّقوء.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklعذاة -->
+
+    <owl:NamedIndividual rdf:about="http://klklعذاة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklعَذَاة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">عَذَاة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">قال حُذيفة لرجُل: &quot;إِن كنت لا بُدَّ نازِلاً بالبصرةِ فانزل عَذَواتِها ولا تَنْزل سُرَّتَها&quot;.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklعذل -->
+
+    <owl:NamedIndividual rdf:about="http://klklعذل">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklعَذَل"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">عَذَل</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي المثل: &quot;سَبَقَ السَّيْفُ العَذَل&quot;: يُضْرَبُ لِما قَدْ فَات ولا يُسْتَدْرَك.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklفطرة -->
+
+    <owl:NamedIndividual rdf:about="http://klklفطرة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklفِطْرَة"/>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">فِطْرَة</hasVocalized>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر هيئة</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {فِطْرَةَ اللهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ اللهِ} [الروم:30].</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklمدرى -->
+
+    <owl:NamedIndividual rdf:about="http://klklمدرى">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمِدْرَى"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مِدْرَى</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: نَطَحَهُ الثَّوْرُ بالمِدْرَى: بالقرن المحدَّد.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklمذمر -->
+
+    <owl:NamedIndividual rdf:about="http://klklمذمر">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمُذَمَّر"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مُذَمَّر</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: بَلَغَ الأَمرُ المُذَمَّر: اشتدّ.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklمرسن -->
+
+    <owl:NamedIndividual rdf:about="http://klklمرسن">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمَرْسَن"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَرْسَن</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: سَلِسَ مَرْسَنُه: سَلِسَ قيادُهُ.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فَعَلت ذلك على رغم مَرْسَنِه.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يقال: فَعَلت ذلك على رغم مَرْسِنِه.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklموعد -->
+
+    <owl:NamedIndividual rdf:about="http://klklموعد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمَوْعِد"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم مكان</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَوْعِد</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {فَأَخْلَفْتُمْ مَوْعِدِي}[طه:86]؛ أَي: عَهْدِي.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklموعدة -->
+
+    <owl:NamedIndividual rdf:about="http://klklموعدة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمَوْعِدَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَوْعِدَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لأَبِيهِ إِلاَّ عَنْ مَوْعِدَةٍ وَعَدَهَا إِيَّاهُ}[التوبة:114].</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklموقر -->
+
+    <owl:NamedIndividual rdf:about="http://klklموقر">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمُوْقَر"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مُوْقَر</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: نَخْلَةٌ مُوقَرٌ: كثيرة الحمل.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklميسرة -->
+
+    <owl:NamedIndividual rdf:about="http://klklميسرة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمَيْسَرَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَيْسَرَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مَيْسَرَةُ الجيش.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: وَلاَّهُ مَيَاسِرَه.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklميسور -->
+
+    <owl:NamedIndividual rdf:about="http://klklميسور">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklمَيْسُور"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مَيْسُور</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: خُذ بميسورِه ودَعْ مَعْسُورَه.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوادك -->
+
+    <owl:NamedIndividual rdf:about="http://klklوادك">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَادِك"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَادِك</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: رَجُلٌ وادِك.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوارد -->
+
+    <owl:NamedIndividual rdf:about="http://klklوارد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَارِد"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {فَأَرْسَلُوا وَارِدَهُمْ}[يوسف:19].</hasExample>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَارِد</hasVocalized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklواعر -->
+
+    <owl:NamedIndividual rdf:about="http://klklواعر">
+        <rdf:type rdf:resource="http://klklأَوْعَر"/>
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَاعِر</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: جَبَلٌ وَاعِر.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوافل -->
+
+    <owl:NamedIndividual rdf:about="http://klklوافل">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَافِل"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَافِل</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَصَبٌ وافِل.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوافية -->
+
+    <owl:NamedIndividual rdf:about="http://klklوافية">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَافِيَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَافِيَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: وَزَنَ له بالوافِية.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklودفة -->
+
+    <owl:NamedIndividual rdf:about="http://klklودفة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَدَفَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَدَفَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَصْبَحت الأَرضُ كلُّها وَدَفةً واحدةً خِصبًا: إِذا اخضرَّت كلُّها.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوديك -->
+
+    <owl:NamedIndividual rdf:about="http://klklوديك">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَدِيك"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَدِيك</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَكَلَ دِيكًا وَدِيكًا: سَمينًا.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوذأة -->
+
+    <owl:NamedIndividual rdf:about="http://klklوذأة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَذْأَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذْأَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ما بِه وَذْأَةٌ: لا عِلَّةَ به.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوذرة -->
+
+    <owl:NamedIndividual rdf:about="http://klklوذرة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَذِرَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذِرَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: عَضَدٌ وَذِرَة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوذماء -->
+
+    <owl:NamedIndividual rdf:about="http://klklوذماء">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَذْمَاء"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذْمَاء</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: امرأَةٌ وَذْمَاء، وفَرَسٌ وَذْمَاء.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوذية -->
+
+    <owl:NamedIndividual rdf:about="http://klklوذية">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَذِيَّة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَذِيَّة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: دُنيا وَذِيَّة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوراء -->
+
+    <owl:NamedIndividual rdf:about="http://klklوراء">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَرَاء"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وتكون وراء بمعنى سِوى نحو قوله تَعَالى: {فَمَنِ ابْتَغَى وَرَاءَ ذَلِكَ}[المؤمنون:7] أَي: سِوى ذلك.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {مِنْ وَرَائِهِ جَهَنَّمُ}[إبراهيم:16]: أَمامَه وقُدَّامه.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ويقع ظَرفًا، قال تَعَالى: {وَكَانَ وَرَاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينةٍ غَصْبًا}[الكهف:79]: أَي أَمامهم.</hasExample>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرَاء</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو وراءَك لما استتر عنك، سواء أَكان خَلْفًا أَم قُدَّامًا.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوراق -->
+
+    <owl:NamedIndividual rdf:about="http://klklوراق">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَرَاق"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرَاق</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ما أَحسَنَ وَرَاقَه: لِبْستَه وشَارَتَه.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklورد -->
+
+    <owl:NamedIndividual rdf:about="http://klklورد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوِرْد"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وِرْد</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَرَأْتُ وِرْدِي.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklورطة -->
+
+    <owl:NamedIndividual rdf:about="http://klklورطة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَرْطَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر مرة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرْطَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: وَقَعَ فلانٌ في وَرْطَةٍ عَظِيمة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklورقة -->
+
+    <owl:NamedIndividual rdf:about="http://klklورقة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَرَقَة"/>
+        <rdf:type rdf:resource="http://klklوَرْقَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرَقَة</hasVocalized>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرْقَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: في القوس وَرْقة.</hasExample>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو وَرَقَةٌ، وهي وَرَقَةٌ، إِذا كانا ضَعيفين خَسِيسين.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوريد -->
+
+    <owl:NamedIndividual rdf:about="http://klklوريد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَرِيد"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الوَرِيد}[ق:16].</hasExample>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرِيد</hasVocalized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوريس -->
+
+    <owl:NamedIndividual rdf:about="http://klklوريس">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَرِيس"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَرِيس</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ثَوبٌ وَرِيسٌ. ومِلْحَفَةٌ وَرِيسَة.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوشل -->
+
+    <owl:NamedIndividual rdf:about="http://klklوشل">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَشَل"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَشَل</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: ما أَصَاب إِلاَّ وَشَلاً من الدّنيا.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوصم -->
+
+    <owl:NamedIndividual rdf:about="http://klklوصم">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَصْم"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَصْم</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَناةٌ فيها وَصْمٌ: صَدْعٌ في أُنبوبها.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوعثاء -->
+
+    <owl:NamedIndividual rdf:about="http://klklوعثاء">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَعْثَاء"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْثَاء</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: أَعوذُ بالله من وَعْثَاء السَّفر.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوعثة -->
+
+    <owl:NamedIndividual rdf:about="http://klklوعثة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَعْثَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْثَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: امرأَةٌ وَعْثَةُ الأَرداف.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوعد -->
+
+    <owl:NamedIndividual rdf:about="http://klklوعد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَعْد"/>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">قالَ البُحْتُرِيُّ:   أَنْتَ الكَريمُ وَقَد قَدَّمْتَ مُبْتَدِئًا   وَعْدًا وَكُلُّ كريمٍ عِنْدَ مَوْعِدِهِ.</hasExample>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">مصدر</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْد</hasVocalized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوعر -->
+
+    <owl:NamedIndividual rdf:about="http://klklوعر">
+        <rdf:type rdf:resource="http://klklأَوْعَر"/>
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْر</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مَكانٌ وَعْرٌ، وطَرِيقٌ وَعْرٌ، ومَطْلَبٌ وَعْرٌ.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوعساء -->
+
+    <owl:NamedIndividual rdf:about="http://klklوعساء">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَعْسَاء"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">صفة</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَعْسَاء</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مَشَى في الوَعْسَاء.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوقش -->
+
+    <owl:NamedIndividual rdf:about="http://klklوقش">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَقْش"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَقْش</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: سَمِعتُ وَقْشَهُ.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوكد -->
+
+    <owl:NamedIndividual rdf:about="http://klklوكد">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوُكْد"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وُكْد</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: مازال ذلك وُكْدِي: فِعْلي.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklوليجة -->
+
+    <owl:NamedIndividual rdf:about="http://klklوليجة">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklوَلِيجَة"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وَلِيجَة</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: هو وَلِيجَتُكُم: لصيقٌ بكم.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklيسار -->
+
+    <owl:NamedIndividual rdf:about="http://klklيسار">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklيَسَار"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يَسَار</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: قَعَدَ يمينًا أَو يسارًا، أَو عن اليمين أَو عن اليَسَار.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklيسير -->
+
+    <owl:NamedIndividual rdf:about="http://klklيسير">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklيَسِير"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يَسِير</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: شَيءٌ يَسِيرٌ.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklيعار -->
+
+    <owl:NamedIndividual rdf:about="http://klklيعار">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklيُعَار"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُعَار</hasVocalized>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يُقال: للشاةِ يُعَار.</hasExample>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://klklيوم -->
+
+    <owl:NamedIndividual rdf:about="http://klklيوم">
+        <rdf:type rdf:resource="http://klklاسم"/>
+        <rdf:type rdf:resource="http://klklيَوْم"/>
+        <hasType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">اسم</hasType>
+        <hasExample rdf:datatype="http://www.w3.org/2001/XMLSchema#string">وفي التَّنْزيل العزيز: {الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ}[المائدة:3].</hasExample>
+        <hasVocalized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">يَوْم</hasVocalized>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.4.1806) http://owlapi.sourceforge.net -->
+

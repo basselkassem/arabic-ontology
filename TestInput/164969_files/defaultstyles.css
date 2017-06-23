@@ -1,0 +1,267 @@
+html
+{
+    padding: auto;
+}
+
+body
+{
+    margin: 0px;
+    padding: 0 auto 0 auto;
+    background: #73337d;
+    text-align: center;
+    direction: rtl;
+}
+
+h1, h2, h3, h4, h5, h6 	
+{
+    overflow: hidden;
+    color: #993399;
+    font-size: 14px;
+    margin: 0;
+    text-align:right;
+    line-height: 1.5;
+}
+
+h1
+{
+    font-size: 22px;
+}
+
+h2
+{
+    font-size: 22px;
+}
+
+h3
+{
+    font-size: 20px;
+}
+
+h4
+{
+    font-size: 18px;
+}
+
+h5
+{
+    font-size: 16px;
+}
+
+h5
+{
+    font-size: 14px;
+}
+
+a, a:visited, a:active{
+    color:#641964;
+    text-decoration:none;  
+	cursor: pointer;
+    /*font-size:14px;*/
+}
+
+a:hover
+{
+    /*text-decoration:underline !important;*/
+}
+
+a img{border:none;}
+
+p
+{
+    margin-top: 14px;
+    margin-bottom: 0px;
+    text-align: justify;
+    font-size: 12pt;
+    color:#666666;
+    line-height:23px;
+    font-weight:bold;
+}
+
+p ul
+{
+    font-size: 14px;
+    color:#666666;
+   text-align:right;     
+}
+
+ol
+{
+    font-size: 14px;
+    color:#666666;
+   text-align:right;     
+}
+
+ol li
+{
+   margin:3px;  
+   padding:1px; 
+   font-weight:bold;
+}
+
+ul
+{
+    margin: 0;
+    padding-right: 23px;
+	text-align:right;
+	font-size: 14px;
+	line-height: 20px;
+    color:#666666;
+}
+
+ul li
+{
+    margin-top: 8px;
+    list-style-position: 0px;
+    list-style-image: url(../images/arrow-link.gif);
+    font-weight:bold;
+}
+
+
+.txt-box, input[type="text"], input[type="password"]
+{
+    border:solid 1px #cccccc;
+}
+
+.txt-box, input[type="text"], input[type="password"], input.txt-box-default, textarea
+{
+    width: 208px;
+    padding-right: 10px;
+    background: url(../images/txt-box-bg.gif) repeat-x;
+    border: solid 1px #d1d0d0;
+    height: 20px;
+    line-height: 20px;
+    color: #060606;
+}
+
+.txt-box-watermark
+{
+    color: #666666;
+}
+
+input.txt-box-default, textarea.txt-box-default
+{
+    line-height:22px;
+    width:308px;    
+    color:#553366;
+}
+
+textarea
+{
+    height:100px;    
+}
+
+
+
+.form-container
+{
+    overflow:hidden;
+    float:none;
+    clear:both; 
+    text-align:right;  
+    margin-top:10px; 
+}
+
+.data-row
+{
+    /*overflow:hidden;*/
+    clear:both;
+    float:none; 
+
+}
+
+.form-label
+{
+    font-size:14px;
+    color:#553366;
+    font-weight:bold;   
+    float:right;
+    width:200px; 
+    min-height:5px;
+    margin-top:10px;
+}
+
+.big-red-star
+{
+    color:red;
+    padding-left:5px;
+    display:inline-block;
+    width:6px;
+    font-size:16px;
+    min-height:5px;
+}
+
+.gender
+{
+    font-size:14px;
+    font-weight:bold; 
+    color:#555555;
+}
+
+.form-textbox
+{
+    overflow:hidden;   
+    min-height:5px;
+    margin-top:8px;
+}
+
+
+.select-special, select
+{
+    line-height:22px;
+    width:320px; 
+    color:#553366;
+}
+
+
+
+div
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a	
+{
+    overflow: hidden;
+    color: #993399;
+    font-size: 14px;
+    margin: 0;
+    text-align:right;
+    line-height: 1.5;
+}
+
+h1 a
+{
+    font-size: 22px;
+    color: #553366;
+}
+
+h2 a
+{
+    font-size: 22px;
+}
+
+h3 a
+{
+    font-size: 20px;
+}
+
+h4 a
+{
+    font-size: 18px;
+    color: #553366;
+     line-height:18px;
+}
+
+h5 a
+{
+    font-size: 16px;
+}
+
+h6
+{
+    font-size: 14px;
+}
+
+
+

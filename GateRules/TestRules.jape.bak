@@ -1,0 +1,11 @@
+﻿Phase: All
+Input: 
+Options:
+
+rule:Rule1
+Priority: 100
+(
+{Token.string == "اسم"} {SpaceToken.kind == space} {Token.string=="بمعنى"} {SpaceToken.kind == space}({Token}):x
+
+):R -->
+:R.ThirdPatter = {parent=x.Token.string}

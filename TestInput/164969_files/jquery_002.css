@@ -1,0 +1,254 @@
+/* Tabs
+----------------------------------*/
+.ui-tabs { position: relative; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+.ui-tabs .ui-tabs-nav { margin: -1px -1px 0 auto; padding:0; cursor:pointer; overflow:hidden; }
+.ui-tabs .ui-tabs-nav li { list-style: none; float: right; position: relative; top: 1px; margin: 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; padding:0; cursor:pointer; }
+.ui-tabs .ui-tabs-nav li a { float: right; 	height:26px; text-decoration: none; background:url(../images/tabs.gif) no-repeat; cursor:pointer; 	display:inline-block; overflow:hidden;	 }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { margin-bottom: 0; padding-bottom: 1px; cursor:pointer;  }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0; padding: 1em 1.4em; background: none; overflow:hidden; }
+.ui-tabs .ui-tabs-hide { display: none !important; }
+
+.ui-tabs .ui-tabs-nav li a.tab-most-read
+{
+	background-position:-803px top;
+	width:100px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-most-read
+{
+	background-position:-803px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-most-comment
+{
+	background-position:-708px top;
+	width:95px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-most-comment
+{
+	background-position:-708px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-most-sending
+{
+	background-position:-602px top;
+	width:106px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-most-sending
+{
+	background-position:-602px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-arab-Markets
+{
+	background-position:-497px top;
+	width:106px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-arab-Markets
+{
+	background-position:-497px bottom;
+}
+/*
+.ui-tabs .ui-tabs-nav li a.tab-Other
+{
+	background-position:-444px top;
+	width:52px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Other
+{
+	background-position:-444px bottom;
+}
+*/
+.ui-tabs .ui-tabs-nav li a.tab-Metal
+{
+	background-position:-376px top;
+	width:68px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Metal
+{
+	background-position:-376px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-Coins
+{
+	background-position:-301px top;
+	width:75px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Coins
+{
+	background-position:-301px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-Policy
+{
+	background-position:-198px top;
+	width:104px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Policy
+{
+	background-position:-198px bottom;
+}
+.ui-tabs .ui-tabs-nav li a.tab-Sport
+{
+	background-position:-103px top;
+	width:94px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Sport
+{
+	background-position:-103px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-Economics
+{
+	background-position:0 top;
+	width:103px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Economics
+{
+	background-position:0 bottom;
+}
+
+ul.clickable-li-items
+{	
+	font-size:13px;
+	color:#666666;	
+	padding:0;
+	padding-right:10px;
+	margin:0;
+	list-style-image:none
+}
+
+ul.clickable-li-items li
+{
+    margin-bottom:10px;
+    list-style-image:none
+}
+
+.clickable-li-items a
+{
+	font-size:14px;
+	line-height:auto;
+	color:#666666;	
+	text-decoration:none;
+	display:inline;
+}
+
+.clickable-li-items a:hover
+{
+	text-decoration:underline;
+}
+
+.clickable-li-items div
+{
+	color:#A0A0A0;
+	font-family:tahoma;
+	font-size:11px;
+	font-weight:normal;
+}
+
+.ui-tabs-panel.container
+{
+	padding:0px;	
+}
+
+
+/** ALASWAQ WIDGET FIX ***/
+.ui-tabs .ui-tabs-nav li a.tab-Other
+{
+     background: url("../images/petrol.gif") no-repeat scroll -1px 0px transparent;
+     width: 52px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-Other
+{
+    background-position: -1px bottom;
+}
+
+/** ALASWAQ WIDGET FIX ***/
+
+/* New Home Page - Country Tabs -  */
+.ui-tabs .ui-tabs-nav li a.tab-syria
+{	
+	background:url(../images/country-tabs.gif) no-repeat;
+	background-position:-300px top;
+	width:77px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-syria
+{
+	background-position:-300px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-egypt
+{	
+	background:url(../images/country-tabs.gif) no-repeat;
+	background-position:-233px top;
+	width:67px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-egypt
+{
+	background-position:-233px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-tunisia
+{	
+	background:url(../images/country-tabs.gif) no-repeat;
+	background-position:-157px top;
+	width:76px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-tunisia
+{
+	background-position:-157px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-yemen
+{	
+	background:url(../images/country-tabs.gif) no-repeat;
+	background-position:-87px top;
+	width:70px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-yemen
+{
+	background-position:-87px bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-sudan
+{	
+	background:url(../images/country-tabs.gif) no-repeat;
+	background-position:0 top;
+	width:87px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-sudan
+{
+	background-position:0 bottom;
+}
+
+.ui-tabs .ui-tabs-nav li a.tab-random
+{	
+	background:url(../images/new-group-names.gif) 0 0 no-repeat; background-position: right -48px; width:73px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a.tab-random
+{
+	background:url(../images/new-group-names.gif) 0 0 no-repeat; background-position: right -48px; width:73px;
+}
+
+
+
+
+

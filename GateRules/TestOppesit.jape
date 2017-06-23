@@ -1,0 +1,10 @@
+Phase: All
+Input: 
+Options:
+
+rule:Test
+Priority: 100
+(
+{Token.string=="("} ({Token.string=="ضد"}):X {Token.string==")"}
+):testRule -->
+:testRule.Opist = {parent=:X.Token.string}

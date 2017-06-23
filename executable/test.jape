@@ -1,0 +1,34 @@
+Phase:	All
+Input: Token SpaceToken Sentence
+Options: control = appelt
+
+rule:Test
+Priority: 100
+(
+{Token.string == "ÇáŞÇÚÏÉ"}
+{SpaceToken}
+{Token.string == "ÇáÑÇÈÚÉ"}
+):testRule -->
+:testRule.Term = {rule ="Test"}
+
+Macro:T
+(
+	({SpaceToken.kind == space})*
+	({Token})*
+	({SpaceToken.kind == space})*
+)
+Macro: TT
+(
+{Token.stem == "ÇÓã"}
+{SpaceToken.kind == space}
+({Token.POS != "tt" } {SpaceToken.kind == space})*
+{Token.stem == "ÇÓã"}
+)
+
+rule:TestContains
+Priority: 150
+(
+(TT)
+//{Sentence contains } 
+):testcontains
+--> :testcontains.Contains = {rule="TestContains"}

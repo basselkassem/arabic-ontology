@@ -1,0 +1,567 @@
+.left-box-container
+{
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+    background: #dddddd;
+    margin-top: 10px;
+}
+
+.left-box-container.floating-right
+{
+    float: right;
+}
+
+.left-box-header
+{
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+    height: 27px;
+    background: #73337d;
+}
+
+.left-white-box-text
+{
+    border: solid 1px #e4e4e4;
+    background: #fff;
+    margin: 9px;
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+    min-height: 40px;
+    padding: 0px;
+    color: #666666;
+    font-size: 14px;
+    text-align: right;
+}
+
+.last-left-box-container
+{
+    margin-bottom: 20px;
+}
+
+.inner-left-white-box-text
+{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: block;
+	margin-bottom:5px;
+	font-family:tahoma;
+	font-size:12px;
+}
+
+span.inner-left-white-box-text span.title {
+	display: block;
+	clear: both;
+	font-weight: bold;
+}
+
+span.inner-left-white-box-text span.votes {
+	display: block;
+	padding: 4px 0 0 0;
+}
+
+.box-container
+{
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+    margin-top: 9px;
+}
+
+.box-header
+{
+    height: 24px;
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+    background: url(../images/group-names.gif) right -262px no-repeat;
+    border-bottom: solid 2px #73337d;
+	position: relative;
+}
+
+#sortable .box-header
+{
+    cursor: move;
+}
+
+.box-body
+{
+    background: url(../images/box-container-bg.gif) repeat-x right bottom #fafafa;
+    border: solid 1px #e4e4e4;
+    border-top: 0px;
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+}
+
+#soccer,#others
+{
+	padding:0px;
+}
+
+.full-box
+{
+    border: solid 1px #e4e4e4;
+}
+
+.white-box-body
+{
+    /*border: solid 1px #e4e4e4;*/
+    background: #fff;
+    margin: 9px;
+    display: block;
+    float: none;
+    clear: both;
+    overflow: hidden;
+    min-height: 150px;
+    padding: 10px;
+}
+
+.special-white-box-body
+{
+    margin-top: 0px;
+}
+
+.arab-jornalism-choise-box .box-header {
+	background:url("../images/jornalism-tabs.gif") no-repeat scroll right 0 transparent;
+}
+
+
+.intl-jornalism-choise-box .box-header {
+	background:url("../images/jornalism-tabs.gif") no-repeat scroll right -27px transparent;
+}
+
+.arab-markets-box .box-header
+{
+    background: url(../images/group-names.gif) right top no-repeat;
+    border-bottom: solid 2px #5e748c;
+}
+
+.sports-box .box-header
+{
+    background: url(../images/group-names.gif) right -24px no-repeat;
+    border-bottom: solid 2px #f89d23;
+}
+
+.editors-choise-box .box-header
+{
+    background: url(../images/group-names.gif) right -48px no-repeat;
+}
+
+.meast-box .box-header
+{
+    background: url(../images/group-names.gif) right -72px no-repeat;
+}
+
+.arabia-shows-box .box-header
+{
+    background: url(../images/group-names.gif) right -96px no-repeat;
+}
+
+.culturs-art-box .box-header
+{
+    background: url(../images/group-names.gif) right -120px no-repeat;
+}
+
+.medicin-health-box .box-header
+{
+    background: url(../images/group-names.gif) right -144px no-repeat;
+}
+
+.technology-box .box-header
+{
+    background: url(../images/group-names.gif) right -168px no-repeat;
+}
+
+.Last_one_box .box-header
+{
+    background: url(../images/group-names.gif) right -192px no-repeat;
+}
+
+.revolution-box .box-header
+{
+    background: url(../images/group-names.gif) right -216px no-repeat;
+}
+
+.alarabiya-today-box .box-header { background:url(../images/group-names.gif) right -285px no-repeat;
+}
+
+
+
+.upper-section
+{
+    border-bottom: solid 1px #cccccc;
+    overflow: hidden;
+    padding-bottom: 9px;
+}
+
+.no-border
+{
+    border-width: 0;
+    padding-bottom: 0px;
+}
+
+.lower-section
+{
+    color: #553366;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: bold;
+    padding-top: 7px;
+    overflow: hidden;
+}
+
+.lower-section a
+{
+    color: #553366;
+    display: inline-block;
+    width: 24%;
+    float: right;
+    text-decoration: none;
+	padding:0 2px;
+}
+
+.lower-section a span
+{
+    display: inline-block;
+    margin-top: 2px;
+	font-family:tahoma;
+	font-size:12px;
+	font-weight:normal;
+	color:#6a6a6a;
+}
+
+.lower-section a:hover span
+{
+    text-decoration: underline;
+}
+
+.lower-section a:hover img
+{
+    text-decoration: none;
+}
+
+.lower-section a img
+{
+	border:2px solid #e1e1e1;
+}
+
+.news-item-text
+{
+    overflow: hidden;
+    text-align: right;
+    font-size: 13px;
+    color: #666666;
+    line-height: 19px;
+	font-family: tahoma;
+	padding-left: 5px;
+}
+
+div.style3 div.news-item-text, div.style3 div.more-news-items {
+	position: relative;
+}
+
+div.more-news-items-link {
+	position: relative;
+	text-align: left;
+	width: 100%;
+	padding-top: 10px;
+}
+
+.news-item-header
+{
+    color: #553366;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+
+.news-item-header a
+{
+    color: #553366;
+    text-decoration: none;
+    font-size: 17px;
+	line-height:24px;
+    font-weight: bold;
+	font-family:arabic transparent;
+}
+
+.news-item-header a:hover
+{
+    text-decoration: underline;
+}
+
+.news-item-header.news-sub-item-header
+{
+    font-size: 14px;
+	font-family: "Arabic Transparent", Arial;
+}
+
+.news-item-header.news-sub-item-header a
+{
+    font-size: 17px;
+}
+
+.news-item-image
+{
+    float: right;
+    border: solid 2px #e1e1e1;
+    margin-left: 9px;
+}
+
+.subscribe-body
+{
+    padding:5px;
+    _width:289px;
+}
+
+.box-ie-width
+{
+    _width:595px
+}
+
+.no-padding-bottom
+{
+    padding-bottom:0;    
+}
+
+/*.items div.play-small
+{
+    display: inline-block;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background: url(../images/play-small.png) no-repeat;
+    top: -85px;
+    left: -30px;
+    cursor: pointer;
+}
+*/
+
+.left-box
+{
+    margin-right:1%;
+    margin-left:1%;  
+}
+
+.two-box
+{
+    float:right;
+    clear:none;
+    width:48%;
+    margin-right:1%;
+    padding-top:5px;
+    padding-bottom:2px;
+}
+
+.tow-box-height {
+	min-height: 280px;
+}
+
+.readers-choise-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right bottom;
+}
+
+.arab-markets-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right -163px;
+}
+
+.opinion-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right -136px;
+}
+
+.vote-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right -109px;
+}
+
+.weather-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right -81px;
+}
+
+.subscribe-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right -53px;
+}
+
+.char-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right -27px;
+}
+
+.follow-header
+{
+    background: url(../images/left-side-headers.gif) #73337d no-repeat right top;
+}
+
+.tabs {
+	padding: 0 !important;
+}
+
+div.search-container.newsletter {
+	margin: 0px 6px;
+	margin-bottom: 10px;
+}
+
+span.newsletter_label {
+	display: block;
+	margin: 15px 8px;
+	font-family: Tahoma;
+}
+
+input.ltr-field {
+	text-align: left;
+	direction: ltr;
+}
+
+div.cartoon_label {
+	color: #666666;
+	font-size: 13px;
+	text-align: right;
+	margin-top: 9px;
+	margin-right: 9px;
+	direction: rtl;
+	font-family: Tahoma;
+}
+
+ul.clickable-li-items li a { font-weight:bold; }
+ul.clickable-li-items li div {
+	padding-top:2px;
+	float: left;
+	clear: both;
+}
+#tabs_readers_choise ul.clickable-li-items li {
+	margin-bottom: 10px;
+}
+
+div.box-body div.white-box-body div.lower-section div.imgNewsContainer { float:right; width:148px; height:auto; }
+div.box-body div.white-box-body div.lower-section div.imgNewsContainer a { width:90%; cursor:pointer; }
+
+a img.mm_outline {
+	border: 1px solid #bbb;
+}
+
+.box-header-movebar {
+	width:26px;
+	height:25px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+.box-header-title {
+	float:right;
+	width:171px;
+	height:25px;
+}
+
+.box-header-title a {
+	display: block;
+	width:100%;
+	height: 100%;
+}
+.box-header-sub-links {
+	float:left;
+	margin:0px;
+	padding:0px;
+	
+}
+#boxheader_sortable_health {
+	background-color:#73337d;
+}
+.nopaddingtop { padding:0; margin:0; }
+.purpleBorder{ border:10px solid #73337d; padding:1px; background:#FFF; margin-top:10px;}
+.estiftaBG{text-align:right; padding:10px;}
+.voteTitle{  clear:both;}
+.voteOptions{ overflow:hidden; clear:both; }
+.voteOptions ul{ margin:0px; padding:0px; list-style:none;}
+.voteOptions ul li{list-style:none; float:right; margin-left:10px;}
+.voteVerefication{ margin-top:10px;}
+.details-link{ color:#df0000 !important; font-family:tahoma; font-size:9pt; font-weight:normal; display:block; margin-top:10px;}
+.details-link a, link, visited{ font-family:tahoma; text-decoration:none;}
+#votingTable span { color:#555555; }
+.move-link {
+    margin-top: 5px;
+    margin-left: 6px;
+}
+
+/** BEGIN TUNISIA HIGHLIGHT ARTICLE ***/
+.tunes-documents {
+	background: url("../images/tunisia_coverage/titles2.gif") no-repeat scroll right -144px transparent;
+}
+.tunes-document-image {
+	width:216px;
+	height:163px;
+	float:right;
+	margin-left:20px;
+	
+}
+.tunes-document-image a{border: 2px solid #E1E1E1; display:block; overflow:hidden;}
+.tunes-document-image a:hover{border: 2px solid #73337d;}
+
+.tunes-document-text {
+	width:350px;
+	float:right;
+	color: #666666;
+	font-family: tahoma;
+	font-size: 13px;
+	line-height: 19px;
+	overflow: hidden;
+	padding-left: 5px;
+	text-align: right;
+}
+.tunes-document-title {
+	color: #553366;
+	font-family: arabic transparent;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 24px;
+	text-decoration: none;
+}
+.tunes-document-subtitle {
+	color: #FF0000;
+	font-family: arabic transparent;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 24px;
+	text-decoration: none;
+}
+.tunes-document-subtitle a{color: #FF0000;}
+/** END TUNISIA HIGHLIGHT ARTICLE ***/
+
+.hiwar-header {
+	background: url("../images/hiwar-header.jpg") repeat scroll right -2px transparent;
+    height: 36px;
+    margin-bottom: 10px;
+}
+
+.alarabiya-tv .box-header {
+    background: url("../images/new-group-names.gif") no-repeat scroll right -285px transparent;
+    border-bottom: 2px solid #73337D;
+}
+
+.arabia-alhadath-box {
+    background: url("../images/new-group-names.gif") no-repeat scroll right -312px transparent;
+}
+
+.opinions-header
+{
+	background:url(../images/opinions-header.gif) right -2px;
+	height:36px;
+	margin-bottom:10px;
+}
+div.general-opinion div.box-header{ background:none; border-bottom:1px solid #E4E4E4; }

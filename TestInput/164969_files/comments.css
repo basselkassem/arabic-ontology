@@ -1,0 +1,499 @@
+
+.comment-box
+{
+    border-bottom: solid 1px #e5e5e5;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 10px;
+}
+
+.comment-title
+{
+    display: block;
+    float: none;
+    clear: both;
+    font-size: 16px;
+    color: #933394;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.commenter-name
+{
+    font-size: 14px;
+    color: #553366;
+    font-weight: bold;
+}
+
+.commenter-status
+{
+    font-size: 12px;
+    color: #933394;
+    font-weight: normal;
+	font-family:tahoma;
+}
+
+.comment-time
+{
+    font-size: 12px;
+    color: #999999;
+    display: block;
+    float: none;
+    clear: both;
+    margin-top: 5px;
+}
+
+.comment-text
+{
+    color: #666666;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 23px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    text-align: justify;
+}
+
+a.show-all-comments
+{
+    float: left;
+    height: 22px;
+    width: 120px;
+    margin-left: 9px;
+    margin-top: -5px;
+    margin-bottom: 8px;
+    background: url(../images/show-all-comments.gif) -120px 0;
+}
+
+a.show-all-comments:hover
+{
+    background: url(../images/show-all-comments.gif) 0 0;
+}
+
+a.show-more-comments
+{
+    float: left;
+    height: 22px;
+    width: 120px;
+    margin-left: 9px;
+    margin-top: -5px;
+    margin-bottom: 8px;
+    background: url(../images/show-more-comments.gif) -120px 0;
+}
+
+a.show-more-comments:hover
+{
+    background: url(../images/show-more-comments.gif) 0 0;
+}
+
+.comment-register-msg
+{
+    padding-right: 5px;
+    display: inline-block;
+	font-family:tahoma;
+	padding-bottom:10px;
+}
+
+.form-container-comment-send
+{
+    overflow: hidden;
+    float: right;
+    width: 380px;
+}
+.form-row
+{
+    display: block;
+    width: 100%;
+    float: none;
+    clear: both;
+    margin-top: 8px;
+    overflow: hidden;
+}
+
+.form-label-comment-send
+{
+    float: right;
+    width: 75px;
+    color: #553366;
+    font-size: 14px;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+.form-fields
+{
+    float: right;
+}
+
+.form-container .txt-box
+{
+    border: solid 1px #cccccc;
+    width: 285px;
+}
+
+.letters-left
+{
+	display: block;
+    font-size: 11px;
+    color: #999999;
+    float: right;
+    margin-top: 5px;
+	font-family:tahoma;
+	line-height: 12px;
+	padding-right: 0px !important;
+}
+
+.send-container
+{
+    overflow: hidden;
+    display: block;
+    float: none;
+    clear: both;
+}
+
+.form-whole-container
+{
+    overflow: hidden;
+}
+
+div#commentsFormContainer {
+	position: relative;
+	text-align: right;
+}
+
+div#commentsFormContainer div.why-login {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 140px;
+}
+
+div#commentsFormContainer div.why-login span.comment-register-msg {
+	margin-bottom: 7px;
+}
+
+div#commentsFormContainer div.form-whole-container {
+	padding: 0 !important;
+	margin: 0 !important;
+	width: 580px;
+}
+
+a.login-btn
+{
+    display: block;
+    float: right;
+    width: 54px;
+    height: 20px;
+    background: url(../images/inside-special-collection.gif) right -70px;
+    margin-right: 5px;
+}
+
+a.login-btn:hover
+{
+    background: url(../images/inside-special-collection.gif) -148px -70px;
+}
+
+a.register-btn
+{
+    display: block;
+    float: right;
+    width: 128px;
+    height: 20px;
+    background: url(../images/inside-special-collection.gif) right -90px;
+    margin-right: 5px;
+}
+
+a.register-btn:hover
+{
+    background: url(../images/inside-special-collection.gif) 0 -90px;
+}
+
+a.comment-btn {
+	display: block;
+	padding: 1px 4px;
+	margin-right: 6px;
+	background-color: #747474;
+	color: #ffffff !important;
+	font-weight: bold;
+	text-align: center;
+}
+
+a.comment-btn:hover {
+	background-color: #641964;
+	text-decoration: none;
+}
+
+a.forgot-password {
+	width: 120px;
+}
+
+a.comment-add {
+	width: 120px;
+}
+
+div.send-container a.login-btn {
+	float: left;
+	margin: 20px 0 10px 0;
+}
+
+.comment-box-container-header .box-header
+{
+    background: url(../images/inside-special-collection.gif) right -24px no-repeat;
+}
+
+.comment-box-container-text-header .box-header
+{
+    background: url(../images/inside-special-collection.gif) right 0 no-repeat;
+}
+
+div.form-whole-container h2 {
+	text-align: right;
+	font-size: 18px;
+}
+
+div#commentsFormContainer div.form-whole-container {
+	padding: 0 !important;
+	margin: 0 !important;
+	width: 580px;
+}
+
+div.form-whole-container div.form-container {
+	width: 100%;
+}
+
+div.form-whole-container div.form-container div.form-row {
+	width: 370px;
+}
+
+div.form-whole-container div.form-container div.form-row div.form-fields
+{
+	text-align: right;
+}
+
+div.form-whole-container div.form-container div div.form-label {
+	padding-bottom: 8px;
+}
+
+div.form-whole-container div.form-container div.form-row div.remember {
+	text-align: right;
+	font-size: 13px;
+	font-weight: bold;
+	color: #553366;
+}
+
+div.form-whole-container div.form-container div.form-row div.form-fields div.comment_err
+{
+	clear: both;
+	text-align: right;
+	font-size: 12px;
+	color: #F00;
+}
+
+div.form-whole-container div.form-container div.form-row-wide {
+	width: 100%;
+	overflow: visible;
+}
+
+div.form-whole-container div.form-container div.form-row-wide div.form-label
+{
+	width: 100%;
+}
+
+div.form-whole-container div.form-container div.form-row-wide div.form-fields
+{
+	width: 100%;
+}
+
+div.form-whole-container div.form-container div.form-row-wide div.form-fields textarea
+{
+	width: 97%;
+	height: 150px;
+}
+
+div.form-row div.form-fields a.logoutLink {
+	width: 50px;
+}
+
+div.form-row div.form-text {
+	padding: 6px 0;
+	text-align: right;
+	font-size: 16px;
+	color: #666666;
+}
+
+div.form-text-row {
+	clear: both;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+	font-size: 16px;
+	color: #666666;
+}
+
+/* STYLE FOR REGISTER FORM */
+div#commentsFormContainer div.form-whole-container div.wide-row {
+	clear: both;
+	text-align: right;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-label
+{
+	width: 150px;
+	text-align: right;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-fields
+{
+
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.text-wide
+{
+	width: 500px;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-fields textarea
+{
+	width: 100%;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-fields div.lettersLimit
+{
+	clear: both;
+	padding: 6px 0 0 0;
+	text-align: right;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-fields div.remember
+{
+	font-size: 13px;
+	font-weight: bold;
+	color: #553366;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-fields div.comment_err
+{
+	clear: both;
+	text-align: right;
+	font-size: 12px;
+	color: #F00;
+}
+
+div#commentsFormContainer div.form-whole-container div.wide-row div.form-fields a.comment-btn
+{
+	position: relative;
+	left: 0;
+}
+
+div#commentsFormContainer div.form-whole-container div.send-container-register
+{
+	padding: 8px 150px 8px 4px;
+}
+
+div#commentsFormContainer div.form-whole-container div.send-container-register a.send-btn
+{
+	float: right;
+	padding: 0;
+	margin: 0;
+}
+
+div#commentsFormContainer div.form-whole-container div.send-container-register a.comment-btn
+{
+	float: left;
+	padding: 4px 6px;
+}
+
+/* GENERAL STYLING */
+div.form-whole-container div.send-container {
+	padding: 8px 0 8px 4px;
+}
+
+div.form-whole-container div.send-container a.send-btn {
+	padding: 0;
+	margin: 0;
+}
+
+div.form-whole-container div.send-container-short {
+	height: 20px;
+	padding: 20px 0 20px 0;
+}
+
+div.form-whole-container div.send-container-short a.send-btn {
+	padding: 0;
+	margin: 0;
+	float: right;
+}
+
+div.form-fields #captcha_image {
+	border: 1px solid #999;
+}
+
+a#commentPagerControl {
+	display: none;
+}
+
+#comments_status_msg {
+	color: #553366;
+}
+
+div.commentLeftBox {
+	clear: both;
+	padding: 4px 0 0 0;
+}
+
+div#commentsLoader {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: url(../images/bg_transparent.png);
+	text-align: center;
+	vertical-align: middle;
+    z-index: 999;
+}
+
+div#commentsLoader img {
+	margin: 25% auto 0 auto;
+}
+
+div.comment-box-container-header div.box-body div.white-box-body {
+	position: relative;
+}
+
+div.form-fields div.catcha-container {
+	padding: 10px 0 0 0;
+}
+
+/* HIDE COMMENTS LOADING IMAGE CONTAINER */
+div.box-container div.box-body div.commentsLoaderStat {
+	display: none;
+	margin-top: -5px;
+	padding: 0;
+	float: right;
+}
+
+div.box-container div.box-body div.commentsLoaderStat img {
+	padding: 0;
+	margin: 0 auto;
+}
+
+/* HIDE INITIALLY COMMENTS CONTAINER */
+div.comment-box div#Div1 {
+	display: none;
+}
+
+div.comment-box div#Div2 {
+	display: block;
+	clear:both;
+}
+
+div.total-comments-count{
+    padding-top: 3px;
+    color:#933394;
+    font-size:15px;
+    font-weight:bold;
+    text-align: left;
+    font-family: "Arabic Transparent","Simplified Arabic",arial,verdana,sans-serif;
+}

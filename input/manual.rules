@@ -1,0 +1,10 @@
+S->V%NP
+NP->(Common_Noun)%PP
+PP->(Preposition)%(Common_Noun)
+NP->(Common_Noun)%(Common_Noun)
+NP->PP
+S->(Common_Noun)%Comp
+Comp->V%NP
+V->(Imperfect)
+V->(Perfect)
+V->(Imperative)
