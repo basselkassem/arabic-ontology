@@ -1,0 +1,1 @@
+A Scientific research project aims to provide the theoretical basis and the practical implementation of a system kernel that extracts general ontology from the interactive Arabic lexicon. We worked in this project on developing a general design for Arabic ontology, then we enriched this design with concepts and semantic relations from the lexicon data.
